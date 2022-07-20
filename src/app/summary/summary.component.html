@@ -1,3 +1,14 @@
+<div class="chart">
+  <canvas
+    baseChart
+    [datasets]="barChartData"
+    [labels]="barChartLabels"
+    [options]="barChartOptions"
+    [legend]="barChartLegend"
+    [type]="barChartType"
+  ></canvas>
+</div>
+
 <div class="section-container">
   <h2>Bug Count</h2>
   <table class="col-sm-3 table table-inverse table-hover">

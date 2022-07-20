@@ -1,1 +1,31 @@
-<p>open-bugs works!</p>
+<div class="section-container">
+  <h2>Open Bugs</h2>
+  <table class="col-sm-3 table table-inverse table-hover">
+    <thead class="thead-dark">
+      <tr>
+        <td>ID</td>
+        <td>Headline</td>
+        <td>Assignedto</td>
+        <td>State</td>
+        <td>Age</td>
+        <td>ETA</td>
+        <td>Comments</td>
+        <td>Status</td>
+        <td>Feature</td>
+      </tr>
+    </thead>
+    <tbody *ngFor="let obug of openBugsList">
+      <tr>
+        <td>{{ obug.Id }}</td>
+        <td>{{ obug.Headline }}</td>
+        <td>{{ obug.Assignedto }}</td>
+        <td>{{ obug.State }}</td>
+        <td>{{ obug.Age }}</td>
+        <td>{{ obug.ETA }}</td>
+        <td>{{ obug.Comments }}</td>
+        <td>{{ obug.Status }}</td>
+        <td>{{ obug.Feature }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

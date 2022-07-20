@@ -11,6 +11,7 @@ import { ResourcewiseComponent } from './resourcewise/resourcewise.component';
 import { ImportcqdataComponent } from './importcqdata/importcqdata.component';
 import { appRoutes } from 'src/routes';
 import { HttpClientModule } from '@angular/common/http';
+import { NgChartsModule } from 'ng2-charts';
 
 @NgModule({
   declarations: [
@@ -27,6 +28,7 @@ import { HttpClientModule } from '@angular/common/http';
     HttpClientModule,
     AppRoutingModule,
     RouterModule.forRoot(appRoutes),
+    NgChartsModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

@@ -4,6 +4,22 @@ import { map } from 'rxjs/operators';
 import { BugCount } from '../models/BugCount';
 import { Score } from '../models/Score';
 import { SummaryService } from '../services/summary.service';
+import { NgChartsModule } from 'ng2-charts';
+
+const SAMPLE_BARCHART_DATA: any[] = [
+  { data: [65, 59, 80, 81, 56, 54, 30], label: 'Q3 Sales' },
+  { data: [25, 39, 60, 91, 36, 54, 50], label: 'Q4 Sales' },
+];
+
+const SAMPLE_BARCHART_LABELS: string[] = [
+  'W1',
+  'W2',
+  'W3',
+  'W4',
+  'W5',
+  'W6',
+  'W7',
+];
 
 @Component({
   selector: 'app-summary',
@@ -19,6 +35,14 @@ export class SummaryComponent implements OnInit {
   arrayFeatureOpenBugs: any = [];
 
   constructor(private summaryService: SummaryService) {}
+  public barChartData: any[] = SAMPLE_BARCHART_DATA;
+  public barChartLabels: string[] = SAMPLE_BARCHART_LABELS;
+  public barChartType: 'bar';
+  public barChartLegend = false;
+  public barChartOptions: any = {
+    scaleShowVerticalLines: false,
+    responsive: true,
+  };
 
   ngOnInit(): void {
     //debugger;
