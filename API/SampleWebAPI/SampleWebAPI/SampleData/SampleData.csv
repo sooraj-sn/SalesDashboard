@@ -1,0 +1,525 @@
+﻿Check,id,Headline,OwnerFullName,State,Submitter.fullname,FunctionalArea,SubmittedOn,ResolverFullName,ResolvedOn,InvestigatorFullName,InvestigatedOn,CloseReason,Score,Age,Submitted Week,Resolved Week,Investigated Week,Feature,,,,,,,,,
+Assigned,MR00235549,"UWF Test: Exporting Data to pacs after generating MRE stiffness maps is failing, before generating stiffness map, exporting t",Thomasukutty Joseph,Assigned,Chethana BN,SW-UW-ReviewApps,24 September 2020 11:24:44 GMT+05:30,,,Thomasukutty Joseph,25 September 2020 14:18:57 GMT+05:30,,3-Undesirable Defect,641,Wk 2039,,Wk 2039,MRE,,,,01-Jan-20,Wk 2001.3,,,MR00232730,Qflow
+Assigned,MR00235520,No geoname as a option for geoname is shown twice when empty box of geoname are created while saving EC,Sujith Shaji,Assigned,Veerendra Shiva Devareddy,SW-UW-SystemApps,23 September 2020 13:28:08 GMT+05:30,,,Vidya D,24 September 2020 18:01:28 GMT+05:30,,3-Undesirable Defect,642,Wk 2039,,Wk 2039,Exam Card Manager,,,,02-Jan-20,Wk 2001.4,,,MR00232669,Scan Modification
+Accepted,MR00235519,Crash observed and EC manager is auto closed after adding protocols and clicked on show PP steps icon,Mohamed V,Accepted,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,23 September 2020 13:09:07 GMT+05:30,,,,,,,642,Wk 2039,,,Exam Card Manager,,,,03-Jan-20,Wk 2001.5,,,MR00232658,Exam Card Manager
+,MR00235504,origial scale factor value in the tooltip does not mention accurately the decimal values,Veerendra Shiva Devareddy,Resolved,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,22 September 2020 18:05:13 GMT+05:30,Duraichi Veerakumar,25 September 2020 10:05:55 GMT+05:30,Duraichi Veerakumar,23 September 2020 12:26:28 GMT+05:30,,3-Undesirable Defect,643,Wk 2039,Wk 2039,Wk 2039,Scan Modification,,,,04-Jan-20,Wk 2001.6,,,MR00232655,Exam Card Manager
+,MR00235448,physiology pop up settings are not retained once saved from scan dashboard and not shown in advanced parameter also,Hans van Roosmalen,Verified,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,21 September 2020 11:39:36 GMT+05:30,Duraichi Veerakumar,22 September 2020 13:42:36 GMT+05:30,Duraichi Veerakumar,22 September 2020 10:50:27 GMT+05:30,Resolved,3-Undesirable Defect,644,Wk 2039,Wk 2039,Wk 2039,Scan Modification,,,,05-Jan-20,Wk 2001.7,,,MR00232614,Exam Card Manager
+,MR00235426,MRE CTA Integration to mrmain,Hans van Roosmalen,Verified,Sarath MS,SW-UW-ReviewApps,18 September 2020 21:05:54 GMT+05:30,Thomasukutty Joseph,21 September 2020 20:13:42 GMT+05:30,Sujith Shaji,21 September 2020 10:05:31 GMT+05:30,Resolved,3-Undesirable Defect,647,Wk 2038,Wk 2039,Wk 2039,MRE,,,,06-Jan-20,Wk 2002.1,,,MR00232604,Scan Modification
+,MR00235424,Dicom configuration Tool initial launch Performance issue,Hans van Roosmalen,Verified,Sarath MS,SW-UW-PreparePatient,18 September 2020 20:58:21 GMT+05:30,Thomasukutty Joseph,21 September 2020 20:12:11 GMT+05:30,Mohamed V,21 September 2020 10:29:07 GMT+05:30,Resolved,4-Minor Defect,647,Wk 2038,Wk 2039,Wk 2039,DICOM Config Tool,,,,07-Jan-20,Wk 2002.2,,,MR00232448,Exam Card Manager
+,MR00235388,String Array Parameters are not shown correctly in the BlobViewer,Hans van Roosmalen,Forwarded,Sankaralingam Arunachalam,SW-UW-AcquisitionApps,17 September 2020 22:47:37 GMT+05:30,,,Saleel PM,18 September 2020 12:47:51 GMT+05:30,Forwarded,3-Undesirable Defect,648,Wk 2038,,Wk 2038,,,,,08-Jan-20,Wk 2002.3,,,MR00232416,Scan Modification
+,MR00235376,UWFTest-Existing validated protocols gets validate again when user drags and drop the another examcard in between the existin,Priyanka Sahu,Resolved,Priyanka Sahu,SW-UW-AcquisitionApps,17 September 2020 16:53:31 GMT+05:30,Ajai David,24 September 2020 11:55:30 GMT+05:30,Ajai David,22 September 2020 11:05:00 GMT+05:30,,3-Undesirable Defect,648,Wk 2038,Wk 2039,Wk 2039,Exam Card Manager,,,,09-Jan-20,Wk 2002.4,,,MR00232397,Exam Card Manager
+,MR00235370,"PIQT: Process ""Examcard manager crashed"" was observed during the PIQT batch run from SPT tool.",Shashidhar BG,Resolved,Shashidhar BG,SW-UW-AcquisitionApps,17 September 2020 14:53:02 GMT+05:30,Mohamed V,22 September 2020 19:51:42 GMT+05:30,Mohamed V,18 September 2020 16:21:44 GMT+05:30,,2-Unacceptable Defect,648,Wk 2038,Wk 2039,Wk 2038,Exam Card Manager,,,,11-Jan-20,Wk 2002.6,,,MR00232384,MRE & QFlow
+,MR00235332,Q-flow pop-up value stuck on screen,Pedro Korthuis,Resolved,Pedro Korthuis,SW-UW-AcquisitionApps,16 September 2020 15:39:44 GMT+05:30,Sujith Shaji,17 September 2020 17:37:37 GMT+05:30,Sujith Shaji,17 September 2020 15:21:58 GMT+05:30,,2-Unacceptable Defect,649,Wk 2038,Wk 2038,Wk 2038,Qflow,,,,12-Jan-20,Wk 2002.7,,,MR00232370,Exam Card Manager
+,MR00235249,UWF test: DIffusion registration inline passed even after changing the b value of the source scan as 1,Hari Priya M,Resolved,Hari Priya M,SW-UW-AcquisitionApps,14 September 2020 15:53:33 GMT+05:30,Deepak Viswanathan,25 September 2020 10:19:04 GMT+05:30,Thomasukutty Joseph,15 September 2020 19:30:40 GMT+05:30,,3-Undesirable Defect,651,Wk 2038,Wk 2039,Wk 2038,Diffusion Registration,,,,13-Jan-20,Wk 2003.1,,,MR00232366,Exam Card Manager
+,MR00235202,Dataset is not exporting to REC-Nondicom format when XML-REC is selected,Hans van Roosmalen,Verified,Medha Ghosh,SW-UW-AcquisitionApps,11 September 2020 16:37:56 GMT+05:30,Ancie Varghese,16 September 2020 10:54:46 GMT+05:30,Ancie Varghese,14 September 2020 17:09:58 GMT+05:30,Resolved,3-Undesirable Defect,654,Wk 2037,Wk 2038,Wk 2038,Non DICOM Converter,,,,14-Jan-20,Wk 2003.2,,,MR00232365,Exam Card Manager
+,MR00235179,UWFTest: Examcard Manager crash oberved when clicked on inline prent in the examcard in Manage Hospital examcards,Chethana BN,Resolved,Chethana BN,SW-UW-AcquisitionApps,10 September 2020 20:53:32 GMT+05:30,Mohamed V,18 September 2020 11:19:59 GMT+05:30,Mohamed V,17 September 2020 09:24:59 GMT+05:30,,2-Unacceptable Defect,655,Wk 2037,Wk 2038,Wk 2038,Exam Card Manager,,,,15-Jan-20,Wk 2003.3,,,MR00232357,DB Browser
+,MR00235120,QFlow - Validation message is missing for Corrupted Data,,Closed,Gopika Kumar,SW-UW-ReviewApps,9 September 2020 13:16:10 GMT+05:30,Sathish G,9 September 2020 17:46:27 GMT+05:30,Sathish G,9 September 2020 15:07:12 GMT+05:30,Resolved,3-Undesirable Defect,656,Wk 2037,Wk 2037,Wk 2037,Qflow,,,,16-Jan-20,Wk 2003.4,,,MR00232318,Exam Card Manager
+,MR00235116,Cannot view ParameterBlobs in the Database Browser,Hans van Roosmalen,Verified,Sankaralingam Arunachalam,SW-UW-PreparePatient,8 September 2020 22:36:23 GMT+05:30,Keerthy B,16 September 2020 15:20:45 GMT+05:30,Keerthy B,9 September 2020 16:45:06 GMT+05:30,Resolved,4-Minor Defect,657,Wk 2037,Wk 2038,Wk 2037,DB Browser,,,,17-Jan-20,Wk 2003.5,,,MR00232317,Exam Card Manager
+,MR00235034,"STXP2-During planning, Unable to edit slice thickness in the easily accessible parameter area with keyboard buttons",Hans van Roosmalen,Verified,Shabeer K,SW-UW-AcquisitionApps,7 September 2020 16:38:33 GMT+05:30,Sujith Shaji,16 September 2020 10:36:36 GMT+05:30,Sujith Shaji,11 September 2020 16:34:35 GMT+05:30,Resolved,3-Undesirable Defect,658,Wk 2037,Wk 2038,Wk 2037,Scan Modification,,,,18-Jan-20,Wk 2003.6,,,MR00232316,Exam Card Manager
+,MR00235024,64K Image - Context Menu Analysis Packages are not listed,Hans van Roosmalen,Verified,Sathishkumar Mani,SW-UW-AcquisitionApps,7 September 2020 15:36:07 GMT+05:30,Deepak Viswanathan,19 September 2020 14:28:44 GMT+05:30,Deepak Viswanathan,8 September 2020 16:06:52 GMT+05:30,Resolved,3-Undesirable Defect,658,Wk 2037,Wk 2038,Wk 2037,"Qflow, MRE & IRDR",,,,19-Jan-20,Wk 2003.7,,,MR00232315,Exam Card Manager
+,MR00234985,UI Automation API Failure: SetValue API failed to set stacks in advance parameter editor(via Tab function),,Closed,Souvik Das,SW-UW-AcquisitionApps,4 September 2020 12:45:39 GMT+05:30,Duraichi Veerakumar,10 September 2020 13:40:13 GMT+05:30,Mohanraj Devadoss,7 September 2020 11:01:51 GMT+05:30,Resolved,3-Undesirable Defect,661,Wk 2036,Wk 2037,Wk 2037,Scan Modification,,,,20-Jan-20,Wk 2004.1,,,MR00232298,Scan Modification
+,MR00234983,ReconTest_Patient Engine crash is notified while resolving conflicts of the protocol for the mDIXON MRA examcard.,Sumithra Kariappa,Resolved,Sumithra Kariappa,SW-UW-AcquisitionApps,4 September 2020 11:58:24 GMT+05:30,Duraichi Veerakumar,10 September 2020 12:07:41 GMT+05:30,Saleel PM,4 September 2020 17:26:14 GMT+05:30,,3-Undesirable Defect,661,Wk 2036,Wk 2037,Wk 2036,Scan Modification,,,,21-Jan-20,Wk 2004.2,,,MR00232267,Physiology Properties
+,MR00234979,Encountered PH crash on release exam,,Closed,Pranav Shivadasan,SW-UW-AcquisitionApps,4 September 2020 11:04:36 GMT+05:30,Duraichi Veerakumar,10 September 2020 12:06:06 GMT+05:30,Duraichi Veerakumar,8 September 2020 08:47:36 GMT+05:30,Resolved,2-Unacceptable Defect,661,Wk 2036,Wk 2037,Wk 2037,Scan Modification,,,,22-Jan-20,Wk 2004.3,,,MR00232265,Exam Card Manager
+,MR00234968,ROI drawn on Q flow and MRE package is coming on review after classic export import from portal,,Closed,Sweta Singh,SW-UW-ReviewApps,3 September 2020 18:13:48 GMT+05:30,Sujith Shaji,8 September 2020 15:21:01 GMT+05:30,Sujith Shaji,7 September 2020 16:44:03 GMT+05:30,Resolved,3-Undesirable Defect,662,Wk 2036,Wk 2037,Wk 2037,MRE & QFlow,,,,23-Jan-20,Wk 2004.4,,,MR00232184,Scan Modification
+,MR00234876,ECM - double click or '+' icon protocols are not getting added to Exam overview,,Closed,Sujatha Bai P,SW-UW-PreparePatient,31 August 2020 21:26:22 GMT+05:30,,,Saril Soman,1 September 2020 13:51:17 GMT+05:30,Rejected,3-Undesirable Defect,665,Wk 2036,,Wk 2036,Exam Card Manager,,,,24-Jan-20,Wk 2004.5,,,MR00232180,Scan Modification
+,MR00234841,Wrong message text reset scan parameters,Hans van Roosmalen,Verified,Rudolf Springorum,SW-UW-AcquisitionApps,28 August 2020 14:12:46 GMT+05:30,Esakkiappan Magesh,4 September 2020 13:06:33 GMT+05:30,Saril Soman,31 August 2020 09:53:53 GMT+05:30,Resolved,4-Minor Defect,668,Wk 2035,Wk 2036,Wk 2036,Scan Modification,,,,25-Jan-20,Wk 2004.6,,,MR00232176,Exam Card Manager
+,MR00234713,GA : Not able to recognize Examcard manager window due to No Automation Id,,Closed,Girishkumar BJ,SW-UW-PreparePatient,25 August 2020 15:00:02 GMT+05:30,Ajai David,28 August 2020 10:20:10 GMT+05:30,Ajai David,26 August 2020 13:08:08 GMT+05:30,Resolved,4-Minor Defect,671,Wk 2035,Wk 2035,Wk 2035,Exam Card Manager,,,,26-Jan-20,Wk 2004.7,,,MR00232086,Exam Card Manager
+,MR00234699,Advanced parameter is showing blank after crash recovery,,Closed,Pooja Srinivas,SW-UW-AcquisitionApps,25 August 2020 11:14:23 GMT+05:30,Duraichi Veerakumar,26 August 2020 16:00:33 GMT+05:30,Duraichi Veerakumar,26 August 2020 12:29:44 GMT+05:30,Resolved,2-Unacceptable Defect,671,Wk 2035,Wk 2035,Wk 2035,Scan Modification,,,,27-Jan-20,Wk 2005.1,,,MR00232072,MRE & QFlow
+,MR00234670,Cannot move to Exam setup pop us is seen repeatedly on clicking exam header area in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,24 August 2020 17:43:40 GMT+05:30,Ajai David,26 August 2020 15:40:00 GMT+05:30,Ajai David,25 August 2020 10:58:41 GMT+05:30,Resolved,4-Minor Defect,672,Wk 2035,Wk 2035,Wk 2035,Exam Card Manager,,,,28-Jan-20,Wk 2005.2,,,MR00232070,MRE & QFlow
+,MR00234603,"ECM - Exam Card folder,  Sub Folder, Exam Card and Preview font size and style is different.",,Closed,Ayub Basha,SW-UW-AcquisitionApps,21 August 2020 12:57:20 GMT+05:30,Ajai David,25 August 2020 10:41:30 GMT+05:30,Ajai David,24 August 2020 12:48:12 GMT+05:30,Resolved,3-Undesirable Defect,675,Wk 2034,Wk 2035,Wk 2035,Exam Card Manager,,,,29-Jan-20,Wk 2005.3,,,MR00232060,DB Hazard
+,MR00234583,ECM is locked while locking the SmartGeometry database:Not able to close the ECM window until closing the console application,,Closed,Pragnya Dasbabu,SW-UW-AcquisitionApps,20 August 2020 19:19:07 GMT+05:30,Mohamed V,22 August 2020 15:43:38 GMT+05:30,Mohamed V,21 August 2020 14:28:40 GMT+05:30,Resolved,3-Undesirable Defect,676,Wk 2034,Wk 2034,Wk 2034,Exam Card Manager,,,,30-Jan-20,Wk 2005.4,,,MR00232023,Exam Card Manager
+,MR00234558,Names and values of the parameters mentioned on Scan dashboard and Advance parameter editor are not matching,,Closed,Keerthi K,SW-UW-AcquisitionApps,20 August 2020 11:18:34 GMT+05:30,Anu Jothis,28 August 2020 12:15:09 GMT+05:30,Duraichi Veerakumar,25 August 2020 10:07:36 GMT+05:30,Resolved,3-Undesirable Defect,676,Wk 2034,Wk 2035,Wk 2035,Scan Modification,,,,31-Jan-20,Wk 2005.5,,,MR00232022,Exam Card Manager
+,MR00234501,"Image info coming on Analyse and capture series from MRE but not changing when scrolled, differs from R5",,Closed,Sweta Singh,SW-UW-ReviewApps,19 August 2020 11:03:38 GMT+05:30,Thomasukutty Joseph,26 August 2020 15:33:13 GMT+05:30,Thomasukutty Joseph,25 August 2020 01:17:00 GMT+05:30,Resolved,3-Undesirable Defect,677,Wk 2034,Wk 2035,Wk 2035,MRE,,,,01-Feb-20,Wk 2005.6,,,MR00232017,Scan Modification
+,MR00234486,Application crashing upon clicking on conflicts button in the Advanced parameters editor,,Closed,Ganesh Shet,SW-UW-AcquisitionApps,19 August 2020 00:45:41 GMT+05:30,,,Anu Jothis,19 August 2020 15:00:35 GMT+05:30,Duplicated,2-Unacceptable Defect,677,Wk 2034,,Wk 2034,Scan Modification,,,,02-Feb-20,Wk 2005.7,,,MR00232015,Scan Modification
+,MR00234468,EC manager is auto closed when Yes is selected twice to close opened EC,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,18 August 2020 20:08:51 GMT+05:30,Ajai David,22 August 2020 16:38:29 GMT+05:30,Ajai David,19 August 2020 17:13:29 GMT+05:30,Resolved,2-Unacceptable Defect,678,Wk 2034,Wk 2034,Wk 2034,Exam Card Manager,,,,03-Feb-20,Wk 2006.1,,,MR00232010,Scan Modification
+,MR00234467,crash observed and geometry tab also removed after doing setting in advanced parameter window,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,18 August 2020 19:49:43 GMT+05:30,Anu Jothis,26 August 2020 15:47:20 GMT+05:30,Anu Jothis,19 August 2020 14:54:06 GMT+05:30,Resolved,2-Unacceptable Defect,678,Wk 2034,Wk 2035,Wk 2034,Scan Modification,,,,04-Feb-20,Wk 2006.2,,,MR00232007,Scan Modification
+,MR00234460,when protocol is not in planning state also disable sense option can be clicked from assistance tab in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,18 August 2020 19:33:35 GMT+05:30,Mohamed V,22 August 2020 15:41:10 GMT+05:30,Mohamed V,20 August 2020 11:42:22 GMT+05:30,Resolved,3-Undesirable Defect,678,Wk 2034,Wk 2034,Wk 2034,Exam Card Manager,,,,05-Feb-20,Wk 2006.3,,,MR00232005,Scan Modification
+,MR00234448,save and save as tiles are disabled in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,18 August 2020 19:08:28 GMT+05:30,Mohamed V,22 August 2020 15:37:52 GMT+05:30,Mohamed V,19 August 2020 14:24:16 GMT+05:30,Resolved,3-Undesirable Defect,678,Wk 2034,Wk 2034,Wk 2034,Exam Card Manager,,,,06-Feb-20,Wk 2006.4,,,MR00232004,Scan Modification
+,MR00234428,"STXP - Advance parameter tab is not opening properly. I see a blank space, later it is appearing correctly",,Closed,Shabeer K,SW-UW-AcquisitionApps,18 August 2020 16:04:41 GMT+05:30,Saril Soman,30 August 2020 11:02:48 GMT+05:30,Duraichi Veerakumar,20 August 2020 10:01:43 GMT+05:30,Resolved,3-Undesirable Defect,678,Wk 2034,Wk 2035,Wk 2034,Scan Modification,,,,07-Feb-20,Wk 2006.5,,,MR00231977,Qflow
+,MR00234359,System crash on drag and drop of multi-series on Q-flow for particular dataset and system doesn't recover,,Closed,Sweta Singh,SW-UW-ReviewApps,17 August 2020 15:33:54 GMT+05:30,Sathish G,21 August 2020 17:15:04 GMT+05:30,Sathish G,18 August 2020 12:58:55 GMT+05:30,Resolved,2-Unacceptable Defect,679,Wk 2034,Wk 2034,Wk 2034,Qflow,,,,08-Feb-20,Wk 2006.6,,,MR00231972,Scan Modification
+,MR00234283,STXP - conflict pop up appearing during the Planning (even if there is no conflict),,Closed,Shabeer K,SW-UW-AcquisitionApps,16 August 2020 16:21:26 GMT+05:30,Anu Jothis,18 August 2020 22:04:32 GMT+05:30,Anu Jothis,17 August 2020 12:08:48 GMT+05:30,Resolved,3-Undesirable Defect,680,Wk 2033,Wk 2034,Wk 2034,Scan Modification,,,,09-Feb-20,Wk 2006.7,,,MR00231938,Qflow
+,MR00234279,"STXP-  In advance parameter tab ,Flickering issue while adjusting the parameter",,Closed,Alagammai Ramanathan,SW-UW-AcquisitionApps,16 August 2020 15:49:21 GMT+05:30,Duraichi Veerakumar,23 August 2020 11:59:46 GMT+05:30,Duraichi Veerakumar,18 August 2020 13:20:40 GMT+05:30,Resolved,4-Minor Defect,680,Wk 2033,Wk 2034,Wk 2034,Scan Modification,,,,10-Feb-20,Wk 2007.1,,,MR00231931,Exam Card Manager
+,MR00234275,STXP - slice thickness mismatch in the summery area of easily accessible parameter area and editable area,,Closed,Shabeer K,SW-UW-AcquisitionApps,16 August 2020 15:24:59 GMT+05:30,Duraichi Veerakumar,19 August 2020 09:40:25 GMT+05:30,Duraichi Veerakumar,17 August 2020 12:08:58 GMT+05:30,Resolved,3-Undesirable Defect,680,Wk 2033,Wk 2034,Wk 2034,Scan Modification,,,,11-Feb-20,Wk 2007.2,,,MR00231925,Qflow
+,MR00234268,"STXP - During planning, Could not able to edit slice thickness in the easily accessible parameter area with keyboard buttons.",,Closed,Shabeer K,SW-UW-AcquisitionApps,16 August 2020 14:21:15 GMT+05:30,Duraichi Veerakumar,19 August 2020 09:41:50 GMT+05:30,Duraichi Veerakumar,17 August 2020 13:59:10 GMT+05:30,Resolved,4-Minor Defect,680,Wk 2033,Wk 2034,Wk 2034,Scan Modification,,,,12-Feb-20,Wk 2007.3,,,MR00231905,Qflow
+,MR00234010,Image registration pop up is seen when patient with image registration generated series is opened via quick schedule.,,Closed,Veerendra Shiva Devareddy,SW-UW-ReviewApps,10 August 2020 18:05:16 GMT+05:30,Thomasukutty Joseph,16 August 2020 09:22:35 GMT+05:30,Thomasukutty Joseph,12 August 2020 11:21:33 GMT+05:30,Resolved,4-Minor Defect,686,Wk 2033,Wk 2033,Wk 2033,IR & DR,,,,13-Feb-20,Wk 2007.4,,,MR00231901,Scan Modification
+,MR00233964,Not possible to creat an examcard with 2 anterior coils recommended in examcard manager,,Closed,Pedro Korthuis,SW-UW-AcquisitionApps,7 August 2020 16:50:58 GMT+05:30,,,Mohamed V,10 August 2020 13:25:41 GMT+05:30,Rejected,3-Undesirable Defect,689,Wk 2032,,Wk 2033,Exam Card Manager,,,,14-Feb-20,Wk 2007.5,,,MR00231899,Diffusion Registration
+,MR00233961,Survey scan in conflict in examcard manager but no in scanning environment,,Closed,Pedro Korthuis,SW-UW-AcquisitionApps,7 August 2020 16:40:48 GMT+05:30,,,Mohamed V,11 August 2020 15:34:09 GMT+05:30,Rejected,4-Minor Defect,689,Wk 2032,,Wk 2033,Exam Card Manager,,,,15-Feb-20,Wk 2007.6,,,MR00231884,Scan Modification
+,MR00233951,ST2-No option to cancel diffusion registration action if done by mistake,,Closed,Vineeth VS,SW-UW-ReviewApps,7 August 2020 11:46:56 GMT+05:30,Thomasukutty Joseph,7 August 2020 12:30:06 GMT+05:30,Arianne van Muiswinkel,,Resolved,3-Undesirable Defect,689,Wk 2032,Wk 2032,,Diffusion Registration,,,,16-Feb-20,Wk 2007.7,,,MR00231852,Exam Card Manager
+,MR00233946,data loading failed error observed while trying to open saved bookmark in portal,Veerendra Shiva Devareddy,Resolved,Veerendra Shiva Devareddy,SW-UW-PreparePatient,7 August 2020 08:19:31 GMT+05:30,Anu Jothis,10 September 2020 15:38:04 GMT+05:30,Shailendra Nalwaya,14 August 2020 23:55:16 GMT+05:30,,3-Undesirable Defect,689,Wk 2032,Wk 2037,Wk 2033,Subsystem,,,,17-Feb-20,Wk 2008.1,,,MR00231833,Scan Modification
+,MR00233879,Imported R417 configuration which has dicom nodes cannot be modified or deleted on the R10 CDAS system in PSC.,,Closed,Sumithra Kariappa,SW-UW-PreparePatient,5 August 2020 21:21:51 GMT+05:30,Anu Jothis,16 August 2020 19:06:45 GMT+05:30,Anu Jothis,7 August 2020 17:19:25 GMT+05:30,Resolved,3-Undesirable Defect,691,Wk 2032,Wk 2033,Wk 2032,Subsystem,,,,18-Feb-20,Wk 2008.2,,,MR00231831,Scan Modification
+,MR00233851,ST2-Not able to trace the registration activity from the Job viewer,,Closed,Vineeth VS,SW-UW-AcquisitionApps,5 August 2020 14:27:35 GMT+05:30,,,Thomasukutty Joseph,6 August 2020 14:53:55 GMT+05:30,Rejected,3-Undesirable Defect,691,Wk 2032,,Wk 2032,Diffusion Registration,,,,19-Feb-20,Wk 2008.3,,,MR00231830,Scan Modification
+,MR00233840,ST2-No option to cancel diffusion registration action if done by mistake,,Closed,Vineeth VS,SW-UW-ReviewApps,5 August 2020 09:50:20 GMT+05:30,,,Thomasukutty Joseph,6 August 2020 13:47:25 GMT+05:30,Rejected,3-Undesirable Defect,691,Wk 2032,,Wk 2032,Diffusion Registration,,,,20-Feb-20,Wk 2008.4,,,MR00231823,MRE
+,MR00233838,ST2-While trying to plan for the first scan in plan scan area (T2W TSE) System screen went blank and recovered at 14:59,,Closed,Vineeth VS,SW-UW-PreparePatient,5 August 2020 08:34:11 GMT+05:30,Anu Jothis,10 August 2020 13:53:13 GMT+05:30,Kevin Davis,10 August 2020 10:29:30 GMT+05:30,Resolved,2-Unacceptable Defect,691,Wk 2032,Wk 2033,Wk 2033,Scan Modification,,,,21-Feb-20,Wk 2008.5,,,MR00231808,MRE
+,MR00233813,ExamcardManager crash is notified while saving and adding R5/R4/Field examcards in the Examcard Manager.,,Closed,Sumithra Kariappa,SW-UW-PreparePatient,4 August 2020 13:32:17 GMT+05:30,,,Mohamed V,7 August 2020 14:21:39 GMT+05:30,Rejected,3-Undesirable Defect,692,Wk 2032,,Wk 2032,Exam Card Manager,,,,22-Feb-20,Wk 2008.6,,,MR00231743,Scan Modification
+,MR00233798,3D Spectrum series is displayed multiple times in database browser after export and import.,,Closed,Harini Sankara,SW-UW-PreparePatient,4 August 2020 05:08:53 GMT+05:30,Deepak Viswanathan,8 August 2020 19:07:05 GMT+05:30,Deepak Viswanathan,6 August 2020 12:11:41 GMT+05:30,Resolved,3-Undesirable Defect,692,Wk 2032,Wk 2032,Wk 2032,DB Browser,,,,23-Feb-20,Wk 2008.7,,,MR00231741,Image Registration
+,MR00233797,Application crashing upon clicking on advanced parameters icon when 3PPS is enabled,,Closed,Ganesh Shet,SW-UW-AcquisitionApps,3 August 2020 23:26:57 GMT+05:30,Duraichi Veerakumar,6 August 2020 20:07:52 GMT+05:30,Duraichi Veerakumar,6 August 2020 13:58:05 GMT+05:30,Resolved,2-Unacceptable Defect,693,Wk 2032,Wk 2032,Wk 2032,Scan Modification,,,,24-Feb-20,Wk 2009.1,,,MR00231676,Qflow
+,MR00233757,"ST2: in Advanced parameters when using arrows to select a parameter works, but left and right arrow key doesnt change the pa",Rens Kruisbrink,Resolved,Rens Kruisbrink,SW-UW-PreparePatient,3 August 2020 13:14:29 GMT+05:30,Esakkiappan Magesh,22 August 2020 17:32:24 GMT+05:30,Esakkiappan Magesh,5 August 2020 17:49:33 GMT+05:30,,3-Undesirable Defect,693,Wk 2032,Wk 2034,Wk 2032,Scan Modification,,,,25-Feb-20,Wk 2009.2,,,MR00231664,Qflow
+,MR00233755,ST2 - SENSE is showing a value of 0- this is technically incorrect.If SENSE is Zero - we are not able increase the value.,,Closed,Shabeer K,SW-UW-AcquisitionApps,3 August 2020 12:37:09 GMT+05:30,Duraichi Veerakumar,6 August 2020 11:01:35 GMT+05:30,Duraichi Veerakumar,4 August 2020 11:40:16 GMT+05:30,Resolved,3-Undesirable Defect,693,Wk 2032,Wk 2032,Wk 2032,Scan Modification,,,,26-Feb-20,Wk 2009.3,,,MR00231662,Qflow
+,MR00233711,ST2- Unable to type numbers in the summary tab to change parameter values,,Closed,Alagammai Ramanathan,SW-UW-AcquisitionApps,31 July 2020 19:17:30 GMT+05:30,,,Sathish G,5 August 2020 18:44:41 GMT+05:30,Rejected,3-Undesirable Defect,696,Wk 2031,,Wk 2032,Scan Modification,,,,27-Feb-20,Wk 2009.4,,,MR00231657,Scan Modification
+,MR00233675,Examcard Manager: Weight is displaying as 80Lbs for R5 imported examcard but in R5 it was set to 176Lbs,,Closed,Druthi S,SW-UW-PreparePatient,31 July 2020 14:35:16 GMT+05:30,Ajai David,7 August 2020 10:35:07 GMT+05:30,Ajai David,4 August 2020 07:34:21 GMT+05:30,Resolved,3-Undesirable Defect,696,Wk 2031,Wk 2032,Wk 2032,Exam Card Manager,,,,28-Feb-20,Wk 2009.5,,,MR00231654,Scan Modification
+,MR00233616,Diffusion Reg is displaying in context menu and DiffReg is successful after disabling ''Diffusion Calc'' option switch in PSC,,Closed,Druthi S,SW-UW-ReviewApps,29 July 2020 15:42:05 GMT+05:30,Thomasukutty Joseph,4 August 2020 22:52:18 GMT+05:30,Thomasukutty Joseph,3 August 2020 17:31:52 GMT+05:30,Resolved,3-Undesirable Defect,698,Wk 2031,Wk 2032,Wk 2032,Diffusion Registration,,,,29-Feb-20,Wk 2009.6,,,MR00231625,Qflow
+,MR00233598,system hang after release patient while physiology window is open.,Filip Vugts,Resolved,Filip Vugts,SW-UW-AcquisitionApps,29 July 2020 14:04:25 GMT+05:30,Sathish G,6 August 2020 09:57:12 GMT+05:30,Sathish G,3 August 2020 14:23:17 GMT+05:30,,2-Unacceptable Defect,698,Wk 2031,Wk 2032,Wk 2032,Physiology Properties,,,,01-Mar-20,Wk 2009.7,,,MR00231616,Qflow
+,MR00233576,Component_Automation_Rename folder functionality is not working properly in Exam card manager,,Closed,Sowmiya Krishnan,SW-UW-AcquisitionApps,28 July 2020 19:07:33 GMT+05:30,Mohamed V,4 August 2020 22:59:55 GMT+05:30,Mohamed V,29 July 2020 20:13:38 GMT+05:30,Resolved,3-Undesirable Defect,699,Wk 2031,Wk 2032,Wk 2031,Exam Card Manager,,,,02-Mar-20,Wk 2010.1,,,MR00231607,MRE
+,MR00233571,"In Database Browser, the  FOV FH for the generated series is not displayed",,Closed,Ganesh Shet,SW-UW-ReviewApps,28 July 2020 18:21:57 GMT+05:30,Deepak Viswanathan,6 August 2020 10:24:40 GMT+05:30,Deepak Viswanathan,3 August 2020 11:21:13 GMT+05:30,Resolved,4-Minor Defect,699,Wk 2031,Wk 2032,Wk 2032,DB Browser,,,,03-Mar-20,Wk 2010.2,,,MR00231605,Qflow
+,MR00233431,Window size of ExamSetup and ParameterEditor are too small on VM on laptop (Paradise),Hans van Roosmalen,Verified,Kees Visser,SW-UW-ExamApps,23 July 2020 14:02:46 GMT+05:30,Anu Jothis,11 August 2020 19:36:04 GMT+05:30,Anu Jothis,4 August 2020 09:31:33 GMT+05:30,Resolved,3-Undesirable Defect,704,Wk 2030,Wk 2033,Wk 2032,Scan Modification,,,,04-Mar-20,Wk 2010.3,,,MR00231592,Qflow
+,MR00233347,DICOM values for the Contrast parameters are not available in the DB Browser,,Closed,Ganesh Shet,SW-UW-PreparePatient,21 July 2020 13:43:27 GMT+05:30,Deepak Viswanathan,25 July 2020 20:33:46 GMT+05:30,Deepak Viswanathan,23 July 2020 15:07:11 GMT+05:30,Resolved,3-Undesirable Defect,706,Wk 2030,Wk 2030,Wk 2030,DB Browser,,,,05-Mar-20,Wk 2010.4,,,MR00231588,Scan Modification
+,MR00233335,Takes to long to open analysis package menu,,Closed,Wendy Hopkins,SW-UW-ReviewApps,21 July 2020 11:24:32 GMT+05:30,Deepak Viswanathan,23 August 2020 16:16:32 GMT+05:30,Deepak Viswanathan,17 August 2020 21:06:53 GMT+05:30,Resolved,3-Undesirable Defect,706,Wk 2030,Wk 2034,Wk 2034,"Qflow, MRE & IRDR",,,,06-Mar-20,Wk 2010.5,,,MR00231578,Scan Modification
+,MR00233308,Manual Inline : Inline is successful for copy pasted protocol with Blank package name in Diffusion Registration.,,Closed,Druthi S,SW-UW-ReviewApps,20 July 2020 17:08:13 GMT+05:30,Deepak Viswanathan,23 July 2020 00:12:55 GMT+05:30,Deepak Viswanathan,21 July 2020 13:04:31 GMT+05:30,Resolved,3-Undesirable Defect,707,Wk 2030,Wk 2030,Wk 2030,Diffusion Registration,,,,07-Mar-20,Wk 2010.6,,,MR00231575,DB Browser
+,MR00233307,Inline is successful for copy pasted protocol with Blank package name in Diffusion Registration.,,Closed,Druthi S,SW-UW-ReviewApps,20 July 2020 16:56:44 GMT+05:30,Deepak Viswanathan,23 July 2020 00:11:22 GMT+05:30,Deepak Viswanathan,21 July 2020 13:02:31 GMT+05:30,Resolved,3-Undesirable Defect,707,Wk 2030,Wk 2030,Wk 2030,Diffusion Registration,,,,08-Mar-20,Wk 2010.7,,,MR00231569,Qflow
+,MR00233304,Diffusion Registration: Job submitted successfully for the Blank package name and in Job Viewer displayed as 100% Completed,,Closed,Druthi S,SW-UW-ReviewApps,20 July 2020 16:48:39 GMT+05:30,Deepak Viswanathan,23 July 2020 00:07:53 GMT+05:30,Deepak Viswanathan,21 July 2020 12:58:22 GMT+05:30,Resolved,3-Undesirable Defect,707,Wk 2030,Wk 2030,Wk 2030,Diffusion Registration,,,,09-Mar-20,Wk 2011.1,,,MR00231563,Exam Card Manager
+,MR00233298,Not able to change IR delay value in scan dashboard area,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,20 July 2020 15:15:07 GMT+05:30,,,Duraichi Veerakumar,21 July 2020 12:47:17 GMT+05:30,Rejected,4-Minor Defect,707,Wk 2030,,Wk 2030,Scan Modification,,,,10-Mar-20,Wk 2011.2,,,MR00231559,Exam Card Manager
+,MR00233261,ST1- MRE View not available to load the MRE sequences for post processing,,Closed,Alagammai Ramanathan,SW-UW-ReviewApps,17 July 2020 12:45:51 GMT+05:30,Sujith Shaji,6 August 2020 10:35:47 GMT+05:30,Deepak Viswanathan,20 July 2020 17:00:45 GMT+05:30,Resolved,3-Undesirable Defect,710,Wk 2029,Wk 2032,Wk 2030,MRE,,,,11-Mar-20,Wk 2011.3,,,MR00231558,Exam Card Manager
+,MR00233169,Exam card Manager - UI issues in New Exam card screen,,Closed,Ajith BJayanna,SW-UW-ExamApps,15 July 2020 09:53:33 GMT+05:30,Ajai David,26 August 2020 17:56:35 GMT+05:30,Mohamed V,26 August 2020 16:19:00 GMT+05:30,Resolved,3-Undesirable Defect,712,Wk 2029,Wk 2035,Wk 2035,Exam Card Manager,,,,12-Mar-20,Wk 2011.4,,,MR00231551,Scan Modification
+,MR00233129,Dual Monitor- Advance Parameter dialog showing up on right monitor.,,Closed,Ayub Basha,SW-UW-AcquisitionApps,14 July 2020 10:13:47 GMT+05:30,Anekh C M,22 July 2020 21:23:58 GMT+05:30,Anekh C M,21 July 2020 11:20:08 GMT+05:30,Resolved,3-Undesirable Defect,713,Wk 2029,Wk 2030,Wk 2030,Scan Modification,,,,13-Mar-20,Wk 2011.5,,,MR00231546,Non DICOM Converter
+,MR00233071,ROI is coming on different slice as well when propagated on one slice for Q-flow,,Closed,Sweta Singh,SW-UW-ReviewApps,10 July 2020 16:07:29 GMT+05:30,Sathish G,14 July 2020 14:23:37 GMT+05:30,Sathish G,13 July 2020 18:36:38 GMT+05:30,Resolved,3-Undesirable Defect,717,Wk 2028,Wk 2029,Wk 2029,Qflow,,,,14-Mar-20,Wk 2011.6,,,MR00231533,MRE
+,MR00233063,Advance parameter window is coming on analysis when switched between patients,,Closed,Sweta Singh,SW-UW-AcquisitionApps,10 July 2020 12:55:43 GMT+05:30,Syam SA,17 July 2020 01:20:43 GMT+05:30,Syam SA,15 July 2020 18:15:32 GMT+05:30,Resolved,3-Undesirable Defect,717,Wk 2028,Wk 2029,Wk 2029,Scan Modification,,,,15-Mar-20,Wk 2011.7,,,MR00231513,MRE
+,MR00233047,Issues with Examcards Manager UI,,Closed,Rakesh Kumar Choudhary,SW-UW-AcquisitionApps,10 July 2020 08:58:03 GMT+05:30,Ajai David,30 July 2020 09:27:01 GMT+05:30,Sujith Shaji,16 July 2020 16:36:01 GMT+05:30,Resolved,4-Minor Defect,717,Wk 2028,Wk 2031,Wk 2029,Exam Card Manager,,,,16-Mar-20,Wk 2012.1,,,MR00231499,Exam Card Manager
+,MR00233040,DICOM Configuration UI - The UI color is not consistent with other UIs from System menu - can't distinguish border,,Closed,Rakesh Kumar Choudhary,SW-UW-AcquisitionApps,10 July 2020 00:15:41 GMT+05:30,Thomasukutty Joseph,11 July 2020 13:16:19 GMT+05:30,Thomasukutty Joseph,10 July 2020 14:16:25 GMT+05:30,Resolved,3-Undesirable Defect,717,Wk 2028,Wk 2028,Wk 2028,DICOM Config Tool,,,,17-Mar-20,Wk 2012.2,,,MR00231488,MRE
+,MR00233030,Able to move into exam setup and select coil and save protocol when protocol is in planning state,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,9 July 2020 18:58:44 GMT+05:30,Mohamed V,11 July 2020 13:14:35 GMT+05:30,Akhil P,10 July 2020 12:51:02 GMT+05:30,Resolved,3-Undesirable Defect,718,Wk 2028,Wk 2028,Wk 2028,Exam Card Manager,,,,18-Mar-20,Wk 2012.3,,,MR00231487,MRE
+,MR00233010,Old protocol closed (when any protocol is in planning state) only opened when clicked on new exam card tile in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,9 July 2020 14:07:42 GMT+05:30,Mohamed V,11 July 2020 13:12:19 GMT+05:30,Akhil P,10 July 2020 11:19:04 GMT+05:30,Resolved,3-Undesirable Defect,718,Wk 2028,Wk 2028,Wk 2028,Exam Card Manager,,,,19-Mar-20,Wk 2012.4,,,MR00231486,MRE
+,MR00233009,advanced parameter is not opened to do parameter change of the planned protocol,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,9 July 2020 14:07:33 GMT+05:30,Mohamed V,11 July 2020 13:09:51 GMT+05:30,Akhil P,10 July 2020 11:12:27 GMT+05:30,Resolved,3-Undesirable Defect,718,Wk 2028,Wk 2028,Wk 2028,Exam Card Manager,,,,20-Mar-20,Wk 2012.5,,,MR00231413,Scan Modification
+,MR00233004,Advanced Parameter tab gets displayed on selecting a completed Delayed Recon Step.,,Closed,Gururaja Hegde,SW-UW-AcquisitionApps,9 July 2020 09:35:49 GMT+05:30,Syam SA,11 July 2020 14:02:05 GMT+05:30,Syam SA,10 July 2020 13:05:34 GMT+05:30,Resolved,3-Undesirable Defect,718,Wk 2028,Wk 2028,Wk 2028,Scan Modification,,,,21-Mar-20,Wk 2012.6,,,MR00231375,Scan Modification
+,MR00233001,Database Browser tool takes too much time to load,,Closed,Sumithra Kariappa,SW-UW-PreparePatient,8 July 2020 21:29:18 GMT+05:30,Mohamed V,9 July 2020 17:00:39 GMT+05:30,Uma Numburi,,Resolved,3-Undesirable Defect,719,Wk 2028,Wk 2028,,DB Browser,,,,22-Mar-20,Wk 2012.7,,,MR00231368,Scan Modification
+,MR00232971,Values of phase result table from analysis for particular phase are not matching with.csv file phase result table,,Closed,Sweta Singh,SW-UW-ReviewApps,8 July 2020 01:07:33 GMT+05:30,Thomasukutty Joseph,9 July 2020 15:20:06 GMT+05:30,Thomasukutty Joseph,8 July 2020 14:54:04 GMT+05:30,Resolved,3-Undesirable Defect,719,Wk 2028,Wk 2028,Wk 2028,Qflow,,,,23-Mar-20,Wk 2013.1,,,MR00231348,Exam Card Manager
+,MR00232970,Reset window is not working for phase map in Q-flow for particular dataset,,Closed,Sweta Singh,SW-UW-ReviewApps,8 July 2020 00:26:44 GMT+05:30,Sathish G,14 July 2020 14:21:54 GMT+05:30,Sathish G,9 July 2020 10:12:39 GMT+05:30,Resolved,3-Undesirable Defect,719,Wk 2028,Wk 2029,Wk 2028,Qflow,,,,24-Mar-20,Wk 2013.2,,,MR00231347,Exam Card Manager
+,MR00232911,ST1- Generated series name is blank in MRE View package,,Closed,Alagammai Ramanathan,SW-UW-ReviewApps,7 July 2020 15:13:09 GMT+05:30,Thomasukutty Joseph,8 July 2020 17:10:57 GMT+05:30,Thomasukutty Joseph,8 July 2020 12:15:47 GMT+05:30,Resolved,3-Undesirable Defect,720,Wk 2028,Wk 2028,Wk 2028,MRE,,,,25-Mar-20,Wk 2013.3,,,MR00231346,Exam Card Manager
+,MR00232904,"Manual physiology calibration does not work,",,Closed,Filip Vugts,SW-UW-AcquisitionApps,7 July 2020 13:54:31 GMT+05:30,Ancie Varghese,14 July 2020 07:50:27 GMT+05:30,Ancie Varghese,9 July 2020 21:33:31 GMT+05:30,Resolved,3-Undesirable Defect,720,Wk 2028,Wk 2029,Wk 2028,VCG Calibration,,,,26-Mar-20,Wk 2013.4,,,MR00231336,VCG Calibration
+,MR00232902,physiology module channel selection corrupt,,Closed,Filip Vugts,SW-UW-AcquisitionApps,7 July 2020 13:38:23 GMT+05:30,Sathish G,8 July 2020 18:57:40 GMT+05:30,Suresh,8 July 2020 00:10:15 GMT+05:30,Resolved,3-Undesirable Defect,720,Wk 2028,Wk 2028,Wk 2028,Physiology Properties,,,,27-Mar-20,Wk 2013.5,,,MR00231327,Diffusion Registration
+,MR00232899,Analyze and capture series in not generated for MRE when navigating to review and coming back on analysis,,Closed,Sweta Singh,SW-UW-ReviewApps,7 July 2020 11:57:36 GMT+05:30,Thomasukutty Joseph,10 July 2020 08:18:08 GMT+05:30,Thomasukutty Joseph,9 July 2020 15:39:06 GMT+05:30,Resolved,3-Undesirable Defect,720,Wk 2028,Wk 2028,Wk 2028,MRE,,,,28-Mar-20,Wk 2013.6,,,MR00231262,IR & DR
+,MR00232840,Gantry display: MR application is crashing when the Patient orientation is changed in Gantry after the survey scan.,,Closed,Shashidhar BG,SW-UW-AcquisitionApps,5 July 2020 20:14:51 GMT+05:30,Syam SA,10 July 2020 19:13:37 GMT+05:30,Syam SA,10 July 2020 13:39:18 GMT+05:30,Resolved,3-Undesirable Defect,722,Wk 2027,Wk 2028,Wk 2028,Scan Modification,,,,29-Mar-20,Wk 2013.7,,,MR00231257,Scan Modification
+,MR00232730,76944-UWF.Performance.QFlow.LoadPackage- Failing Performance Requirement,,Closed,Maheshwari OV,SW-UW-AcquisitionApps,2 July 2020 18:47:51 GMT+05:30,Sathish G,29 July 2020 22:33:31 GMT+05:30,Sathish G,6 July 2020 19:38:57 GMT+05:30,Resolved,3-Undesirable Defect,725,Wk 2027,Wk 2031,Wk 2028,Qflow,,,,30-Mar-20,Wk 2014.1,,,MR00231239,Scan Modification
+,MR00232707,UI Crash when planning Spectro,,Closed,Wendy Hopkins,SW-UW-AcquisitionApps,2 July 2020 15:25:33 GMT+05:30,Sujith Shaji,10 July 2020 09:31:51 GMT+05:30,Ramanjaneyulu SBV,6 July 2020 21:06:52 GMT+05:30,Resolved,2-Unacceptable Defect,725,Wk 2027,Wk 2028,Wk 2028,Scan Modification,,,,31-Mar-20,Wk 2014.2,,,MR00231206,Exam Card Manager
+,MR00232669,"In Plan tab, When Pat is in acquisition Plan button is disabled",,Closed,Sujatha Bai P,SW-UW-AcquisitionApps,1 July 2020 20:50:45 GMT+05:30,Duraichi Veerakumar,8 July 2020 10:59:29 GMT+05:30,Syam SA,6 July 2020 13:32:09 GMT+05:30,Resolved,3-Undesirable Defect,726,Wk 2027,Wk 2028,Wk 2028,Scan Modification,,,,01-Apr-20,Wk 2014.3,,,MR00231167,Diffusion Registration
+,MR00232658,shown anatomy values are not reflected in Exam setup of EC manager_,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,1 July 2020 18:56:08 GMT+05:30,Ajai David,3 July 2020 09:56:58 GMT+05:30,Saleel PM,2 July 2020 12:23:02 GMT+05:30,Resolved,3-Undesirable Defect,726,Wk 2027,Wk 2027,Wk 2027,Exam Card Manager,,,,02-Apr-20,Wk 2014.4,,,MR00231164,Qflow
+,MR00232655,Selected anatomy and anatomy region not shown in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,1 July 2020 18:49:12 GMT+05:30,Ajai David,3 July 2020 09:50:35 GMT+05:30,Saleel PM,2 July 2020 12:25:05 GMT+05:30,Resolved,3-Undesirable Defect,726,Wk 2027,Wk 2027,Wk 2027,Exam Card Manager,,,,03-Apr-20,Wk 2014.5,,,MR00231156,MRE
+,MR00232614,System and application are hanging after executing dbperformeasuretool_cs.exe,,Closed,Harini Sankara,SW-UW-PreparePatient,1 July 2020 05:40:15 GMT+05:30,Mohamed V,9 July 2020 16:57:42 GMT+05:30,Mohamed V,3 July 2020 14:09:22 GMT+05:30,Resolved,3-Undesirable Defect,726,Wk 2027,Wk 2028,Wk 2027,Exam Card Manager,,,,04-Apr-20,Wk 2014.6,,,MR00231107,Diffusion Registration
+,MR00232604,user test: scan dashboard - Not clear that/which parameters are editable.,,Closed,Pelin Gultekin,SW-UW-AcquisitionApps,30 June 2020 18:54:19 GMT+05:30,Esakkiappan Magesh,1 July 2020 10:50:42 GMT+05:30,Arianne van Muiswinkel,,Resolved,3-Undesirable Defect,727,Wk 2027,Wk 2027,,Scan Modification,,,,05-Apr-20,Wk 2014.7,,,MR00231085,Exam Card Manager
+,MR00232448,Protocol in planning state is not removed when whole other EC is selected to edit,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,25 June 2020 14:10:36 GMT+05:30,Akhil P,1 July 2020 10:43:12 GMT+05:30,Akhil P,29 June 2020 10:44:48 GMT+05:30,Resolved,3-Undesirable Defect,732,Wk 2026,Wk 2027,Wk 2027,Exam Card Manager,,,,06-Apr-20,Wk 2015.1,,,MR00231058,MRE
+,MR00232416,breath hold duration range unit of measurement is shown wrong,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,24 June 2020 16:06:14 GMT+05:30,Duraichi Veerakumar,25 June 2020 18:38:27 GMT+05:30,Duraichi Veerakumar,25 June 2020 14:26:39 GMT+05:30,Resolved,3-Undesirable Defect,733,Wk 2026,Wk 2026,Wk 2026,Scan Modification,,,,07-Apr-20,Wk 2015.2,,,MR00231024,Exam Card Manager
+,MR00232397,Ec manager is hard struck and no option can be selected when save as is done previously,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,24 June 2020 08:04:07 GMT+05:30,Akhil P,25 June 2020 18:38:20 GMT+05:30,Akhil P,25 June 2020 14:26:02 GMT+05:30,Resolved,3-Undesirable Defect,733,Wk 2026,Wk 2026,Wk 2026,Exam Card Manager,,,,08-Apr-20,Wk 2015.3,,,MR00231015,Scan Modification
+,MR00232384,Contrast is not coming on Pictorial index for image algebra maps,,Closed,Sweta Singh,SW-UW-ReviewApps,23 June 2020 17:10:19 GMT+05:30,,,Thomasukutty Joseph,24 June 2020 13:05:37 GMT+05:30,Rejected,3-Undesirable Defect,734,Wk 2026,,Wk 2026,MRE & QFlow,,,,09-Apr-20,Wk 2015.4,,,MR00230960,Scan Modification
+,MR00232370,"Extra ""XXX present"" named protocol is present in most EC in EC manager database and not shown in adapt EC window",,Closed,Veerendra Shiva Devareddy,SW-UW-PreparePatient,23 June 2020 15:14:36 GMT+05:30,Ajai David,25 June 2020 18:29:05 GMT+05:30,Ajai David,25 June 2020 09:41:06 GMT+05:30,Resolved,3-Undesirable Defect,734,Wk 2026,Wk 2026,Wk 2026,Exam Card Manager,,,,10-Apr-20,Wk 2015.5,,,MR00230958,Scan Modification
+,MR00232366,EC manager is auto closed when trying to create new folder in split window,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,23 June 2020 14:08:27 GMT+05:30,Ajai David,24 June 2020 20:09:57 GMT+05:30,Ajai David,24 June 2020 15:04:22 GMT+05:30,Resolved,3-Undesirable Defect,734,Wk 2026,Wk 2026,Wk 2026,Exam Card Manager,,,,11-Apr-20,Wk 2015.6,,,MR00230900,Qflow
+,MR00232365,EC manager is auto closed when trying to delete folder from hospital database,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,23 June 2020 14:05:05 GMT+05:30,Ajai David,24 June 2020 19:58:56 GMT+05:30,Ajai David,24 June 2020 14:55:35 GMT+05:30,Resolved,3-Undesirable Defect,734,Wk 2026,Wk 2026,Wk 2026,Exam Card Manager,,,,12-Apr-20,Wk 2015.7,,,MR00230882,Scan Modification
+,MR00232357,Volunteer test_Write-Tree file doesn't contain all the saved dicom tags from the DB Browser for the imported R5 dataset.,,Closed,Sumithra Kariappa,SW-UW-PreparePatient,23 June 2020 10:22:24 GMT+05:30,Anekh C M,3 July 2020 10:04:08 GMT+05:30,Anekh C M,29 June 2020 07:50:43 GMT+05:30,Resolved,3-Undesirable Defect,734,Wk 2026,Wk 2027,Wk 2027,DB Browser,,,,13-Apr-20,Wk 2016.1,,,MR00230847,Exam Card Manager
+,MR00232318,Not able to save any EC as save button is always deactivated in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-PreparePatient,19 June 2020 19:09:17 GMT+05:30,Akhil P,24 June 2020 11:31:06 GMT+05:30,Akhil P,23 June 2020 10:26:05 GMT+05:30,Resolved,3-Undesirable Defect,738,Wk 2025,Wk 2026,Wk 2026,Exam Card Manager,,,,14-Apr-20,Wk 2016.2,,,MR00230782,Scan Modification
+,MR00232317,drag and drop of any EC containing protocols is not working in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,19 June 2020 19:03:32 GMT+05:30,Mohamed V,23 June 2020 19:21:19 GMT+05:30,Mohamed V,22 June 2020 17:12:37 GMT+05:30,Resolved,3-Undesirable Defect,738,Wk 2025,Wk 2026,Wk 2026,Exam Card Manager,,,,15-Apr-20,Wk 2016.3,,,MR00230779,Scan Modification
+,MR00232316,Advanced parameter is not opened and not able to plan any protocol in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,19 June 2020 18:47:39 GMT+05:30,Mohamed V,24 June 2020 12:10:55 GMT+05:30,Mohamed V,22 June 2020 17:34:12 GMT+05:30,Resolved,3-Undesirable Defect,738,Wk 2025,Wk 2026,Wk 2026,Exam Card Manager,,,,16-Apr-20,Wk 2016.4,,,MR00230749,Image Registration
+,MR00232315,Protocols are not added when EC is selected to edit in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,19 June 2020 18:44:09 GMT+05:30,Mohamed V,23 June 2020 19:24:37 GMT+05:30,Mohamed V,22 June 2020 16:57:37 GMT+05:30,Resolved,3-Undesirable Defect,738,Wk 2025,Wk 2026,Wk 2026,Exam Card Manager,,,,17-Apr-20,Wk 2016.5,,,MR00230724,Exam Card Manager
+,MR00232298,Inversion delay value when selected in 4 digits not shown fully on scan dashboard and >2 digit input not shown in opened box,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,19 June 2020 13:25:13 GMT+05:30,Duraichi Veerakumar,24 June 2020 13:24:59 GMT+05:30,Duraichi Veerakumar,22 June 2020 19:35:52 GMT+05:30,Resolved,3-Undesirable Defect,738,Wk 2025,Wk 2026,Wk 2026,Scan Modification,,,,18-Apr-20,Wk 2016.6,,,MR00230691,Exam Card Manager
+,MR00232274,Protocol name is not coming on series when Q-flow and MRE is launched whereas in R5 is comes,,Closed,Sweta Singh,SW-UW-AcquisitionApps,18 June 2020 19:04:48 GMT+05:30,Thomasukutty Joseph,9 July 2020 15:23:01 GMT+05:30,Sathish G,8 July 2020 17:04:30 GMT+05:30,Resolved,3-Undesirable Defect,739,Wk 2025,Wk 2028,Wk 2028,MRE & QFlow,,,,19-Apr-20,Wk 2016.7,,,MR00230626,Scan Modification
+,MR00232267,Multiple manual calibration dialogs can  launched from exam dashboard blinking icon,,Closed,Suresh,SW-UW-AcquisitionApps,18 June 2020 18:06:43 GMT+05:30,Syam SA,29 June 2020 12:46:15 GMT+05:30,Syam SA,23 June 2020 16:15:57 GMT+05:30,Resolved,3-Undesirable Defect,739,Wk 2025,Wk 2027,Wk 2026,Physiology Properties,,,,20-Apr-20,Wk 2017.1,,,MR00230615,Exam Card Manager
+,MR00232265,"77651,77652- Missing markers for export and import examcard workflow",,Closed,R Hariharan,SW-UW-PreparePatient,18 June 2020 16:55:10 GMT+05:30,Anekh C M,25 June 2020 18:07:19 GMT+05:30,Anekh C M,25 June 2020 11:13:31 GMT+05:30,Resolved,3-Undesirable Defect,739,Wk 2025,Wk 2026,Wk 2026,Exam Card Manager,,,,21-Apr-20,Wk 2017.2,,,MR00230599,Exam Card Manager
+,MR00232184,ST1: The changed parameter value is not in bold when using advanced parameters.,,Closed,Marco van Essen,SW-UW-AcquisitionApps,17 June 2020 12:13:22 GMT+05:30,Keerthy B,29 June 2020 13:11:20 GMT+05:30,Keerthy B,19 June 2020 20:06:58 GMT+05:30,Resolved,3-Undesirable Defect,740,Wk 2025,Wk 2027,Wk 2025,Scan Modification,,,,22-Apr-20,Wk 2017.3,,,MR00230578,Exam Card Manager
+,MR00232180,"ST1: When an already planned scan is re-poned for planning, the status of the accept button is confusing as it is grayed out.",,Closed,Marco van Essen,SW-UW-ExamApps,17 June 2020 11:50:05 GMT+05:30,Duraichi Veerakumar,24 June 2020 13:18:31 GMT+05:30,Vinod Sasidharan Nair,18 June 2020 09:54:29 GMT+05:30,Resolved,3-Undesirable Defect,740,Wk 2025,Wk 2026,Wk 2025,Scan Modification,,,,23-Apr-20,Wk 2017.4,,,MR00230557,Scan Modification
+,MR00232176,EC manager is not opening and crash is observed after fresh SWID installation,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,17 June 2020 11:26:00 GMT+05:30,Mohamed V,18 June 2020 22:29:22 GMT+05:30,Mohamed V,18 June 2020 11:20:13 GMT+05:30,Resolved,2-Unacceptable Defect,740,Wk 2025,Wk 2025,Wk 2025,Exam Card Manager,,,,24-Apr-20,Wk 2017.5,,,MR00230555,Exam Card Manager
+,MR00232086,more than required digit input taken for patient weight in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,15 June 2020 16:59:18 GMT+05:30,Akhil P,18 June 2020 22:14:03 GMT+05:30,Ajai David,16 June 2020 13:00:51 GMT+05:30,Resolved,3-Undesirable Defect,742,Wk 2025,Wk 2025,Wk 2025,Exam Card Manager,,,,25-Apr-20,Wk 2017.6,,,MR00230553,Exam Card Manager
+,MR00232072,MRE & QFlow - Viewports Right Click Context Menu -> Rotate /Mirror -sub menu displayed the values is reverse order.,,Closed,Sathishkumar Mani,SW-UW-ReviewApps,15 June 2020 14:14:24 GMT+05:30,Thomasukutty Joseph,18 June 2020 14:48:16 GMT+05:30,Thomasukutty Joseph,16 June 2020 15:16:35 GMT+05:30,Resolved,3-Undesirable Defect,742,Wk 2025,Wk 2025,Wk 2025,MRE & QFlow,,,,26-Apr-20,Wk 2017.7,,,MR00230550,Exam Card Manager
+,MR00232070,"MRE & QFlow - WW, WL, Zoom should be in Editable in the MRE & QFlow Packages Viewport when Full Image Information is selected",,Closed,Sathishkumar Mani,SW-UW-ReviewApps,15 June 2020 13:58:42 GMT+05:30,Thomasukutty Joseph,23 June 2020 09:24:29 GMT+05:30,Thomasukutty Joseph,18 June 2020 17:41:17 GMT+05:30,Resolved,4-Minor Defect,742,Wk 2025,Wk 2026,Wk 2025,MRE & QFlow,,,,27-Apr-20,Wk 2018.1,,,MR00230540,Scan Modification
+,MR00232060,DBHazardTest app is crashing while running the tests,,Closed,Harini Sankara,SW-UW-AcquisitionApps,15 June 2020 11:27:25 GMT+05:30,Deepak Viswanathan,3 July 2020 18:30:53 GMT+05:30,Deepak Viswanathan,17 June 2020 10:56:11 GMT+05:30,Resolved,2-Unacceptable Defect,742,Wk 2025,Wk 2027,Wk 2025,DB Hazard,,,,28-Apr-20,Wk 2018.2,,,MR00230524,Scan Modification
+,MR00232023,Primary action button is not disabled to show progress is not allowed,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,12 June 2020 17:59:23 GMT+05:30,Akhil P,16 June 2020 17:23:55 GMT+05:30,Akhil P,15 June 2020 12:33:13 GMT+05:30,Resolved,3-Undesirable Defect,745,Wk 2024,Wk 2025,Wk 2025,Exam Card Manager,,,,29-Apr-20,Wk 2018.3,,,MR00230522,Exam Card Manager
+,MR00232022,prior folder selected validation message is shown when no folder is selected or selection is removed,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,12 June 2020 17:50:06 GMT+05:30,Akhil P,24 June 2020 11:29:12 GMT+05:30,Akhil P,15 June 2020 14:11:16 GMT+05:30,Resolved,3-Undesirable Defect,745,Wk 2024,Wk 2026,Wk 2025,Exam Card Manager,,,,30-Apr-20,Wk 2018.4,,,MR00230495,Exam Card Manager
+,MR00232017,conflict tab not shown and there is no way to remove conflict shown on protocol,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,12 June 2020 16:11:00 GMT+05:30,Mohamed V,16 June 2020 19:48:49 GMT+05:30,Mohamed V,15 June 2020 15:33:55 GMT+05:30,Resolved,3-Undesirable Defect,745,Wk 2024,Wk 2025,Wk 2025,Scan Modification,,,,01-May-20,Wk 2018.5,,,MR00230493,Exam Card Manager
+,MR00232015,ST1: Creating delayed recon different compared to R5,,Closed,Marco van Essen,SW-UW-AcquisitionApps,12 June 2020 15:59:15 GMT+05:30,Duraichi Veerakumar,24 June 2020 13:23:13 GMT+05:30,Duraichi Veerakumar,17 June 2020 18:05:04 GMT+05:30,Resolved,3-Undesirable Defect,745,Wk 2024,Wk 2026,Wk 2025,Scan Modification,,,,03-May-20,Wk 2018.7,,,MR00230492,Exam Card Manager
+,MR00232010,for scale factor range only one value is shown and original value is not correct,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,12 June 2020 14:35:46 GMT+05:30,Duraichi Veerakumar,16 June 2020 20:15:11 GMT+05:30,Duraichi Veerakumar,15 June 2020 16:07:52 GMT+05:30,Resolved,3-Undesirable Defect,745,Wk 2024,Wk 2025,Wk 2025,Scan Modification,,,,04-May-20,Wk 2019.1,,,MR00230488,Exam Card Manager
+,MR00232007,Values entered in gating window are not shown fully,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,12 June 2020 14:27:39 GMT+05:30,Duraichi Veerakumar,16 June 2020 20:12:21 GMT+05:30,Duraichi Veerakumar,15 June 2020 16:07:51 GMT+05:30,Resolved,3-Undesirable Defect,745,Wk 2024,Wk 2025,Wk 2025,Scan Modification,,,,05-May-20,Wk 2019.2,,,MR00230485,Exam Card Manager
+,MR00232005,Gating window unit of measurement issue where unit is different on box and tooltip,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,12 June 2020 14:20:57 GMT+05:30,Duraichi Veerakumar,16 June 2020 20:11:25 GMT+05:30,Duraichi Veerakumar,15 June 2020 14:36:21 GMT+05:30,Resolved,3-Undesirable Defect,745,Wk 2024,Wk 2025,Wk 2025,Scan Modification,,,,06-May-20,Wk 2019.3,,,MR00230484,Exam Card Manager
+,MR00232004,Tooltip new values are not shown and cardiac trigger delay is shown instead of resp trigger delay,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,12 June 2020 14:14:12 GMT+05:30,Duraichi Veerakumar,16 June 2020 20:02:45 GMT+05:30,Duraichi Veerakumar,15 June 2020 14:32:55 GMT+05:30,Resolved,3-Undesirable Defect,745,Wk 2024,Wk 2025,Wk 2025,Scan Modification,,,,07-May-20,Wk 2019.4,,,MR00230457,IR & DR
+,MR00231977,"76944, 76945- UWF.Performance.QFlow.LoadPackage & DragDropSeries Start Marker and End Marker not available in the log",,Closed,R Hariharan,SW-UW-AcquisitionApps,12 June 2020 11:14:08 GMT+05:30,Thomasukutty Joseph,16 June 2020 17:54:33 GMT+05:30,Thomasukutty Joseph,15 June 2020 13:22:26 GMT+05:30,Resolved,4-Minor Defect,745,Wk 2024,Wk 2025,Wk 2025,Qflow,,,,08-May-20,Wk 2019.5,,,MR00230421,Diffusion Registration
+,MR00231972,Short cut keys are not working in spinner control after HSDP intake in 369 SWID.,,Closed,Duraichi Veerakumar,SW-UW-AcquisitionApps,12 June 2020 10:26:16 GMT+05:30,Duraichi Veerakumar,25 June 2020 16:48:37 GMT+05:30,Duraichi Veerakumar,25 June 2020 11:01:17 GMT+05:30,Resolved,3-Undesirable Defect,745,Wk 2024,Wk 2026,Wk 2026,Scan Modification,,,,09-May-20,Wk 2019.6,,,MR00230408,Image Registration
+,MR00231938,Auto propagate doesn't turn off on editing ROI for Q-Flow,,Closed,Sweta Singh,MR-SystemEngineering,11 June 2020 18:40:06 GMT+05:30,Sathish G,24 June 2020 12:09:17 GMT+05:30,Sathish G,18 June 2020 10:24:05 GMT+05:30,Resolved,4-Minor Defect,746,Wk 2024,Wk 2026,Wk 2025,Qflow,,,,10-May-20,Wk 2019.7,,,MR00230400,Exam Card Manager
+,MR00231931,incorrect password string is shown on top of opened folder,,Closed,Veerendra Shiva Devareddy,SW-UW-PreparePatient,11 June 2020 18:08:29 GMT+05:30,Akhil P,15 June 2020 21:47:07 GMT+05:30,Akhil P,12 June 2020 14:41:07 GMT+05:30,Resolved,4-Minor Defect,746,Wk 2024,Wk 2025,Wk 2024,Exam Card Manager,,,,11-May-20,Wk 2020.1,,,MR00230393,Exam Card Manager
+,MR00231925,"Reset Window is linked between magnitude and phase image for Q-Flow, differs from R5",,Closed,Sweta Singh,SW-UW-ReviewApps,11 June 2020 17:19:21 GMT+05:30,Sujith Shaji,18 June 2020 14:51:44 GMT+05:30,Sujith Shaji,16 June 2020 18:55:29 GMT+05:30,Resolved,3-Undesirable Defect,746,Wk 2024,Wk 2025,Wk 2025,Qflow,,,,12-May-20,Wk 2020.2,,,MR00230362,Non DICOM Converter
+,MR00231905,Application is crashing after opening series in QFlow package.,,Closed,Harini Sankara,SW-UW-AcquisitionApps,11 June 2020 06:58:15 GMT+05:30,Sathish G,13 June 2020 19:53:10 GMT+05:30,Sathish G,12 June 2020 14:15:28 GMT+05:30,Resolved,2-Unacceptable Defect,746,Wk 2024,Wk 2024,Wk 2024,Qflow,,,,13-May-20,Wk 2020.3,,,MR00230299,Image Registration
+,MR00231901,ST1: conflict solving via conflict guidance is too slow,,Closed,Marco van Essen,SW-UW-AcquisitionApps,11 June 2020 05:16:59 GMT+05:30,,,Anekh C M,1 July 2020 14:10:07 GMT+05:30,Duplicated,3-Undesirable Defect,746,Wk 2024,,Wk 2027,Scan Modification,,,,14-May-20,Wk 2020.4,,,MR00230274,Qflow
+,MR00231899,ST1: diffusion registration does not work.,,Closed,Marco van Essen,SW-UW-AcquisitionApps,11 June 2020 04:53:17 GMT+05:30,Deepak Viswanathan,8 July 2020 10:38:19 GMT+05:30,Deepak Viswanathan,17 June 2020 09:40:23 GMT+05:30,Resolved,3-Undesirable Defect,746,Wk 2024,Wk 2028,Wk 2025,Diffusion Registration,,,,15-May-20,Wk 2020.5,,,MR00230258,Qflow
+,MR00231884,ST1- Unable to type numbers in the summary tab to change parameter values,,Closed,Alagammai Ramanathan,SW-UW-AcquisitionApps,11 June 2020 00:15:49 GMT+05:30,Kevin Davis,29 June 2020 13:09:07 GMT+05:30,Anu Jothis,11 June 2020 17:05:30 GMT+05:30,Resolved,3-Undesirable Defect,746,Wk 2024,Wk 2027,Wk 2024,Scan Modification,,,,16-May-20,Wk 2020.6,,,MR00230249,Scan Modification
+,MR00231852,EC manager password window don't have a border,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,10 June 2020 18:39:39 GMT+05:30,Akhil P,12 June 2020 09:49:52 GMT+05:30,Akhil P,11 June 2020 13:40:14 GMT+05:30,Resolved,4-Minor Defect,747,Wk 2024,Wk 2024,Wk 2024,Exam Card Manager,,,,17-May-20,Wk 2020.7,,,MR00230237,Exam Card Manager
+,MR00231833,"ST1: For some instances, the opening of scans for planning takes longer than expected",,Closed,Marco van Essen,SW-UW-AcquisitionApps,10 June 2020 15:33:53 GMT+05:30,Saril Soman,30 July 2020 12:46:01 GMT+05:30,Chandralatha Channakeshava,24 June 2020 15:41:43 GMT+05:30,Resolved,3-Undesirable Defect,747,Wk 2024,Wk 2031,Wk 2026,Scan Modification,,,,18-May-20,Wk 2021.1,,,MR00230224,Exam Card Manager
+,MR00231831,time on the protocol is not shown correctly after changing parameters in scan dashboard and advanced parameters,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,10 June 2020 15:14:50 GMT+05:30,,,Duraichi Veerakumar,11 June 2020 11:11:34 GMT+05:30,Rejected,3-Undesirable Defect,747,Wk 2024,,Wk 2024,Scan Modification,,,,19-May-20,Wk 2021.2,,,MR00230170,Diffusion Registration
+,MR00231830,ST1: Additional action required to go to tabs in advanced parameters,,Closed,Marco van Essen,MR-CCB/DMB,10 June 2020 15:12:54 GMT+05:30,Esakkiappan Magesh,17 July 2020 07:17:08 GMT+05:30,Ajay Nitin,2 July 2020 11:15:48 GMT+05:30,Resolved,4-Minor Defect,747,Wk 2024,Wk 2029,Wk 2027,Scan Modification,,,,20-May-20,Wk 2021.3,,,MR00230152,Scan Modification
+,MR00231823,ST1-MRE images not loaded in MRE View,,Closed,Alagammai Ramanathan,SW-UW-AcquisitionApps,10 June 2020 13:50:25 GMT+05:30,Sujith Shaji,17 June 2020 12:23:02 GMT+05:30,Sujith Shaji,11 June 2020 17:09:31 GMT+05:30,Resolved,2-Unacceptable Defect,747,Wk 2024,Wk 2025,Wk 2024,MRE,,,,21-May-20,Wk 2021.4,,,MR00230142,Exam Card Manager
+,MR00231808,ST1- MRE View typo SEEIP/M,,Closed,Alagammai Ramanathan,SW-UW-AcquisitionApps,10 June 2020 11:48:42 GMT+05:30,Thomasukutty Joseph,12 June 2020 09:42:02 GMT+05:30,Sujith Shaji,11 June 2020 12:57:15 GMT+05:30,Resolved,3-Undesirable Defect,747,Wk 2024,Wk 2024,Wk 2024,MRE,,,,22-May-20,Wk 2021.5,,,MR00230141,Exam Card Manager
+,MR00231743,Component Automation_Failed to select value cell using two clicks in Advanced parameter,,Closed,Balakrishna Linguttla,SW-UW-PreparePatient,9 June 2020 13:55:44 GMT+05:30,Duraichi Veerakumar,10 June 2020 17:07:36 GMT+05:30,Duraichi Veerakumar,9 June 2020 22:07:20 GMT+05:30,Resolved,3-Undesirable Defect,748,Wk 2024,Wk 2024,Wk 2024,Scan Modification,,,,23-May-20,Wk 2021.6,,,MR00230104,Exam Card Manager
+,MR00231741,CAUTION- information message is not displaying while Image Registration,,Closed,Sathishkumar Mani,SW-UW-AcquisitionApps,9 June 2020 13:48:23 GMT+05:30,Deepak Viswanathan,24 June 2020 12:13:40 GMT+05:30,Deepak Viswanathan,11 June 2020 10:42:06 GMT+05:30,Resolved,3-Undesirable Defect,748,Wk 2024,Wk 2026,Wk 2024,Image Registration,,,,24-May-20,Wk 2021.7,,,MR00230099,Exam Card Manager
+,MR00231676,Not able to launch Qflow imported data set into analysis,,Closed,Lali T,SW-UW-AcquisitionApps,8 June 2020 12:02:18 GMT+05:30,Sathish G,15 June 2020 22:43:10 GMT+05:30,Sathish G,10 June 2020 12:19:54 GMT+05:30,Resolved,3-Undesirable Defect,749,Wk 2024,Wk 2025,Wk 2024,Qflow,,,,25-May-20,Wk 2022.1,,,MR00230086,Qflow
+,MR00231664,Application crashes when click on graph viewer in Qflow after adding few number of ROIs,,Closed,Sindu P Chandran,SW-UW-ReviewApps,5 June 2020 21:07:52 GMT+05:30,Thomasukutty Joseph,23 June 2020 09:22:43 GMT+05:30,Sathish G,9 June 2020 10:43:12 GMT+05:30,Resolved,2-Unacceptable Defect,752,Wk 2023,Wk 2026,Wk 2024,Qflow,,,,26-May-20,Wk 2022.2,,,MR00230084,Qflow
+,MR00231662,User is not able to scroll to last phase 15/15 in Qflow,,Closed,Sindu P Chandran,SW-UW-ReviewApps,5 June 2020 20:07:51 GMT+05:30,,,Sathish G,8 June 2020 12:19:12 GMT+05:30,Duplicated,3-Undesirable Defect,752,Wk 2023,,Wk 2024,Qflow,,,,27-May-20,Wk 2022.3,,,MR00230080,DICOM Config Tool
+,MR00231657,Gantry display: Coils displayed in Gantry display and MR Console are mismatched for a patient.,,Closed,Shashidhar BG,SW-UW-AcquisitionApps,5 June 2020 18:51:04 GMT+05:30,Anu Jothis,1 July 2020 11:35:32 GMT+05:30,Anu Jothis,12 June 2020 07:58:40 GMT+05:30,Resolved,3-Undesirable Defect,752,Wk 2023,Wk 2027,Wk 2024,Scan Modification,,,,28-May-20,Wk 2022.4,,,MR00230069,Exam Card Manager
+,MR00231654,Coils selection or deselection changes is not happening in coils tab of advanced parameter editor.,,Closed,Shashidhar BG,SW-UW-AcquisitionApps,5 June 2020 18:40:00 GMT+05:30,Anu Jothis,7 July 2020 10:51:54 GMT+05:30,Anu Jothis,9 June 2020 15:02:55 GMT+05:30,Resolved,3-Undesirable Defect,752,Wk 2023,Wk 2028,Wk 2024,Scan Modification,,,,29-May-20,Wk 2022.5,,,MR00230065,Scan Modification
+,MR00231625,Restore Crash is happening when opening Qflow Package.,,Closed,Ayub Basha,SW-UW-ReviewApps,5 June 2020 16:08:03 GMT+05:30,,,Sathish G,8 June 2020 12:23:53 GMT+05:30,Duplicated,2-Unacceptable Defect,752,Wk 2023,,Wk 2024,Qflow,,,,30-May-20,Wk 2022.6,,,MR00230046,Exam Card Manager
+,MR00231616,Line annotation is not allowed to draw once ROI limitation is reached,,Closed,Sweta Singh,SW-UW-AcquisitionApps,5 June 2020 14:31:15 GMT+05:30,Sujith Shaji,10 June 2020 17:03:54 GMT+05:30,Sujith Shaji,9 June 2020 13:01:58 GMT+05:30,Resolved,3-Undesirable Defect,752,Wk 2023,Wk 2024,Wk 2024,Qflow,,,,31-May-20,Wk 2022.7,,,MR00230043,Exam Card Manager
+,MR00231607,MRE package is still available even after disabling MRE package service option key in service application,,Closed,Deepsona Das,SW-UW-ReviewApps,5 June 2020 13:20:47 GMT+05:30,Thomasukutty Joseph,10 June 2020 15:27:18 GMT+05:30,Thomasukutty Joseph,8 June 2020 15:43:52 GMT+05:30,Resolved,3-Undesirable Defect,752,Wk 2023,Wk 2024,Wk 2024,MRE,,,,01-Jun-20,Wk 2023.1,,,MR00230041,Exam Card Manager
+,MR00231605,The popup messages is confusing  to the user,,Closed,Lali T,SW-UW-ReviewApps,5 June 2020 12:39:18 GMT+05:30,Thomasukutty Joseph,3 July 2020 10:24:26 GMT+05:30,Sathish G,30 June 2020 21:35:48 GMT+05:30,Resolved,3-Undesirable Defect,752,Wk 2023,Wk 2027,Wk 2027,Qflow,,,,02-Jun-20,Wk 2023.2,,,MR00230039,Exam Card Manager
+,MR00231592,Problem with the image display type dropped down  in Q flow,,Closed,Lali T,SW-UW-ReviewApps,5 June 2020 11:09:12 GMT+05:30,Sathish G,9 June 2020 08:25:30 GMT+05:30,Sathish G,8 June 2020 09:54:54 GMT+05:30,Resolved,3-Undesirable Defect,752,Wk 2023,Wk 2024,Wk 2024,Qflow,,,,03-Jun-20,Wk 2023.3,,,MR00229988,Scan Modification
+,MR00231588,ST1: Advanced parameter handling requires an additional click compare to R5,,Closed,Marco van Essen,SW-UW-AcquisitionApps,5 June 2020 03:58:26 GMT+05:30,Esakkiappan Magesh,29 June 2020 13:15:06 GMT+05:30,Esakkiappan Magesh,8 June 2020 22:49:22 GMT+05:30,Resolved,3-Undesirable Defect,752,Wk 2023,Wk 2027,Wk 2024,Scan Modification,,,,04-Jun-20,Wk 2023.4,,,MR00229926,Exam Card Manager
+,MR00231578,Advanced parameters UI is still visible after closing the exam.,,Closed,Rakesh Kumar Choudhary,SW-UW-AcquisitionApps,4 June 2020 21:48:44 GMT+05:30,Duraichi Veerakumar,16 June 2020 09:41:58 GMT+05:30,Praveen K,11 June 2020 23:26:36 GMT+05:30,Resolved,3-Undesirable Defect,753,Wk 2023,Wk 2025,Wk 2024,Scan Modification,,,,05-Jun-20,Wk 2023.5,,,MR00229894,Exam Card Manager
+,MR00231575,DB Browser: Patient Reference ID(Tag: 2005 102A) value updation is not retained after closing and reopening the DB browser.,,Closed,Shashidhar BG,SW-UW-PreparePatient,4 June 2020 20:52:09 GMT+05:30,,,Keerthy B,8 June 2020 10:21:21 GMT+05:30,Rejected,3-Undesirable Defect,753,Wk 2023,,Wk 2024,DB Browser,,,,06-Jun-20,Wk 2023.6,,,MR00229892,MRE
+,MR00231569,Qflow option is still enabled while opening the dataset for review even if Qflow is disabled in PSC service options,,Closed,Sindu P Chandran,SW-UW-ReviewApps,4 June 2020 20:07:53 GMT+05:30,Thomasukutty Joseph,10 June 2020 15:24:28 GMT+05:30,Thomasukutty Joseph,8 June 2020 15:47:03 GMT+05:30,Resolved,3-Undesirable Defect,753,Wk 2023,Wk 2024,Wk 2024,Qflow,,,,07-Jun-20,Wk 2023.7,,,MR00229885,Exam Card Manager
+,MR00231563,save button looks activated and can be clicked and pop up message also seen when no folder are selected to save,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,4 June 2020 19:12:31 GMT+05:30,Akhil P,10 June 2020 15:40:08 GMT+05:30,Akhil P,5 June 2020 11:08:19 GMT+05:30,Resolved,4-Minor Defect,753,Wk 2023,Wk 2024,Wk 2023,Exam Card Manager,,,,08-Jun-20,Wk 2024.1,,,MR00229878,Exam Card Manager
+,MR00231559,The protocol area stays back when we close the editing ExamDashbrd Section in ECM after multiple adding/removing of PP steps,,Closed,Snehal Suvarna,SW-UW-PreparePatient,4 June 2020 17:42:30 GMT+05:30,Ajai David,10 June 2020 16:21:15 GMT+05:30,Ajai David,8 June 2020 17:09:48 GMT+05:30,Resolved,3-Undesirable Defect,753,Wk 2023,Wk 2024,Wk 2024,Exam Card Manager,,,,09-Jun-20,Wk 2024.2,,,MR00229867,Exam Card Manager
+,MR00231558,Adding postprocessing step  doesnt behave as expected for an protocol which already has an Inline present in ExamcardMananer,,Closed,Snehal Suvarna,SW-UW-AcquisitionApps,4 June 2020 17:40:18 GMT+05:30,Kevin Davis,29 June 2020 13:08:20 GMT+05:30,Mohamed V,23 June 2020 10:05:57 GMT+05:30,Resolved,3-Undesirable Defect,753,Wk 2023,Wk 2027,Wk 2026,Exam Card Manager,,,,10-Jun-20,Wk 2024.3,,,MR00229864,Exam Card Manager
+,MR00231557,"After changing the resolution of a previous scan, coping another scan the adjusted values are kept in the pop out view",Hans van Roosmalen,Verified,Wendy Hopkins,SW-UW-AcquisitionApps,4 June 2020 17:36:02 GMT+05:30,Sathish G,24 July 2020 09:56:26 GMT+05:30,Frankco Lamerikx,25 June 2020 17:42:10 GMT+05:30,Resolved,3-Undesirable Defect,753,Wk 2023,Wk 2030,Wk 2026,Scan Modification,,,,11-Jun-20,Wk 2024.4,,,MR00229863,Exam Card Manager
+,MR00231551,ST1: Scrolling in ExamOverview blocked by windows taskbar when using Adv. parameters,,Closed,Marco van Essen,SW-UW-AcquisitionApps,4 June 2020 16:32:45 GMT+05:30,Anu Jothis,9 June 2020 08:08:36 GMT+05:30,Anu Jothis,7 June 2020 13:32:45 GMT+05:30,Resolved,3-Undesirable Defect,753,Wk 2023,Wk 2024,Wk 2023,Scan Modification,,,,12-Jun-20,Wk 2024.5,,,MR00229854,Scan Modification
+,MR00231546,CTA failure -SWCMP.UW.NonDICOMConverter.VerifyCustomizedExportDestination(44745),,Closed,Sarath MS,SW-UW-AcquisitionApps,4 June 2020 15:52:39 GMT+05:30,Ancie Varghese,9 June 2020 05:22:10 GMT+05:30,Ancie Varghese,5 June 2020 15:37:09 GMT+05:30,Resolved,3-Undesirable Defect,753,Wk 2023,Wk 2024,Wk 2023,Non DICOM Converter,,,,13-Jun-20,Wk 2024.6,,,MR00229823,Exam Card Manager
+,MR00231533,Tooltip missing for one of the icons on MRE,,Closed,Sweta Singh,SW-UW-AcquisitionApps,4 June 2020 12:26:20 GMT+05:30,Sujith Shaji,9 June 2020 10:09:35 GMT+05:30,Sujith Shaji,5 June 2020 20:21:57 GMT+05:30,Resolved,3-Undesirable Defect,753,Wk 2023,Wk 2024,Wk 2023,MRE,,,,14-Jun-20,Wk 2024.7,,,MR00229767,Exam Card Manager
+,MR00231513,Series generation successful or failed status/message is not displayed to the user in MRE package.,,Closed,Shashidhar BG,SW-UW-ReviewApps,3 June 2020 20:52:01 GMT+05:30,Sujith Shaji,9 June 2020 10:13:49 GMT+05:30,Thomasukutty Joseph,5 June 2020 14:06:21 GMT+05:30,Resolved,3-Undesirable Defect,754,Wk 2023,Wk 2024,Wk 2023,MRE,,,,15-Jun-20,Wk 2025.1,,,MR00229766,Exam Card Manager
+,MR00231499,Pressing space button on KB is taken as close button or save as button press in EC manager based on prior action.,,Closed,Veerendra Shiva Devareddy,SW-UW-PreparePatient,3 June 2020 18:37:17 GMT+05:30,Akhil P,16 June 2020 18:00:40 GMT+05:30,Akhil P,5 June 2020 18:14:07 GMT+05:30,Resolved,3-Undesirable Defect,754,Wk 2023,Wk 2025,Wk 2023,Exam Card Manager,,,,16-Jun-20,Wk 2025.2,,,MR00229764,Exam Card Manager
+,MR00231488,Editing ROI name for MRE is not applied to both the image types,,Closed,Sweta Singh,SW-UW-ReviewApps,3 June 2020 16:42:56 GMT+05:30,Sujith Shaji,9 June 2020 09:51:59 GMT+05:30,Sujith Shaji,5 June 2020 13:19:59 GMT+05:30,Resolved,3-Undesirable Defect,754,Wk 2023,Wk 2024,Wk 2023,MRE,,,,17-Jun-20,Wk 2025.3,,,MR00229730,Exam Card Manager
+,MR00231487,Series generation for MRE remains in processing when only one map and then both the maps are generated simultaneously,,Closed,Sweta Singh,SW-UW-ReviewApps,3 June 2020 16:16:03 GMT+05:30,Thomasukutty Joseph,5 June 2020 10:24:32 GMT+05:30,Thomasukutty Joseph,4 June 2020 18:03:45 GMT+05:30,Resolved,2-Unacceptable Defect,754,Wk 2023,Wk 2023,Wk 2023,MRE,,,,18-Jun-20,Wk 2025.4,,,MR00229725,Exam Card Manager
+,MR00231486,MRE ROI is not coming in print,,Closed,Sweta Singh,SW-UW-ReviewApps,3 June 2020 16:04:48 GMT+05:30,,,Thomasukutty Joseph,4 June 2020 15:40:17 GMT+05:30,Duplicated,3-Undesirable Defect,754,Wk 2023,,Wk 2023,MRE,,,,19-Jun-20,Wk 2025.5,,,MR00229721,DICOM Config Tool
+,MR00231413,Geometry interaction Validation is Slow Examcard -(15T Elbow large FOV dS SE 16ch),,Closed,Sathishkumar Mani,SW-UW-AcquisitionApps,2 June 2020 17:38:27 GMT+05:30,Saril Soman,30 July 2020 13:12:31 GMT+05:30,Chandralatha Channakeshava,24 June 2020 21:47:31 GMT+05:30,Resolved,3-Undesirable Defect,755,Wk 2023,Wk 2031,Wk 2026,Scan Modification,,,,20-Jun-20,Wk 2025.6,,,MR00229716,Exam Card Manager
+,MR00231375,"Patient Host is crashed, While editing Advanced parameters",,Closed,Pragnya Dasbabu,SW-UW-AcquisitionApps,2 June 2020 13:45:20 GMT+05:30,Esakkiappan Magesh,12 June 2020 10:34:27 GMT+05:30,Ajai David,4 June 2020 10:32:45 GMT+05:30,Resolved,2-Unacceptable Defect,755,Wk 2023,Wk 2024,Wk 2023,Scan Modification,,,,21-Jun-20,Wk 2025.7,,,MR00229715,Exam Card Manager
+,MR00231368,Performance measurement is failed for the ReqID 77597 UWF.Performance.Navigation.PatientBumping,,Closed,Priyanka Sahu,SW-UW-ReviewApps,2 June 2020 12:16:46 GMT+05:30,Anekh C M,1 July 2020 11:02:14 GMT+05:30,Duraichi Veerakumar,26 June 2020 13:03:49 GMT+05:30,Resolved,3-Undesirable Defect,755,Wk 2023,Wk 2027,Wk 2026,Scan Modification,,,,22-Jun-20,Wk 2026.1,,,MR00229714,DICOM Config Tool
+,MR00231348,old geoname still shown when new EC is added to edit in EC manager and need scrollbar to check below geonames,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,2 June 2020 11:02:16 GMT+05:30,Anekh C M,4 June 2020 21:58:06 GMT+05:30,Ajai David,3 June 2020 17:03:34 GMT+05:30,Resolved,4-Minor Defect,755,Wk 2023,Wk 2023,Wk 2023,Exam Card Manager,,,,23-Jun-20,Wk 2026.2,,,MR00229711,Exam Card Manager
+,MR00231347,No validation message shown for duplicate geoname entries in EC manager,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,2 June 2020 10:58:18 GMT+05:30,Anekh C M,4 June 2020 21:53:12 GMT+05:30,Anekh C M,3 June 2020 17:36:41 GMT+05:30,Resolved,4-Minor Defect,755,Wk 2023,Wk 2023,Wk 2023,Exam Card Manager,,,,24-Jun-20,Wk 2026.3,,,MR00229705,Image Registration
+,MR00231346,pre-assigned geoname can be deleted in EC manager where enter press on emptied box should cancel the edit.,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,2 June 2020 10:41:02 GMT+05:30,Anekh C M,4 June 2020 21:49:18 GMT+05:30,Anekh C M,3 June 2020 17:26:37 GMT+05:30,Resolved,4-Minor Defect,755,Wk 2023,Wk 2023,Wk 2023,Exam Card Manager,,,,25-Jun-20,Wk 2026.4,,,MR00229672,Exam Card Manager
+,MR00231336,VCG Calibration -Crash when user clicks on cancel button,,Closed,Pranav Shivadasan,SW-UW-AcquisitionApps,1 June 2020 18:51:10 GMT+05:30,Thomasukutty Joseph,5 June 2020 20:04:35 GMT+05:30,Ancie Varghese,2 June 2020 20:11:51 GMT+05:30,Resolved,2-Unacceptable Defect,756,Wk 2023,Wk 2023,Wk 2023,VCG Calibration,,,,26-Jun-20,Wk 2026.5,,,MR00229669,Exam Card Manager
+,MR00231327,76919-UWF.Performance.DiffusionRegistration.Inline- Marker not available,,Closed,Maheshwari OV,SW-UW-ReviewApps,1 June 2020 17:48:28 GMT+05:30,Thomasukutty Joseph,30 June 2020 13:35:13 GMT+05:30,Deepak Viswanathan,2 June 2020 16:25:47 GMT+05:30,Resolved,4-Minor Defect,756,Wk 2023,Wk 2027,Wk 2023,Diffusion Registration,,,,27-Jun-20,Wk 2026.6,,,MR00229666,Exam Card Manager
+,MR00231262,Iview BOlD Option not available in Context Menu,,Closed,Maheshwari OV,SW-UW-ReviewApps,29 May 2020 16:01:00 GMT+05:30,Saril Soman,6 July 2020 10:04:22 GMT+05:30,Bhumika Thatte,29 June 2020 19:19:06 GMT+05:30,Resolved,3-Undesirable Defect,759,Wk 2022,Wk 2028,Wk 2027,IR & DR,,,,28-Jun-20,Wk 2026.7,,,MR00229605,Exam Card Manager
+,MR00231257,Scan Duration displayed is Cropped in the Protocol in Exam Overview on increasing the NSA and dynamics,,Closed,Gururaja Hegde,SW-UW-AcquisitionApps,29 May 2020 14:20:18 GMT+05:30,,,Anu Jothis,1 June 2020 13:31:50 GMT+05:30,Rejected,4-Minor Defect,759,Wk 2022,,Wk 2023,Scan Modification,,,,29-Jun-20,Wk 2027.1,,,MR00229604,Exam Card Manager
+,MR00231239,Physiology tool tip original value is missing,,Closed,Sarath MS,SW-UW-AcquisitionApps,29 May 2020 12:31:33 GMT+05:30,Esakkiappan Magesh,5 June 2020 12:16:40 GMT+05:30,Ramanjaneyulu SBV,3 June 2020 17:11:43 GMT+05:30,Resolved,4-Minor Defect,759,Wk 2022,Wk 2023,Wk 2023,Scan Modification,,,,30-Jun-20,Wk 2027.2,,,MR00229601,Exam Card Manager
+,MR00231206,Navigation host crash while trying to Open Exacmcard manager on Swid 357,,Closed,Snehal Suvarna,SW-UW-AcquisitionApps,28 May 2020 18:42:19 GMT+05:30,Mohamed V,7 June 2020 16:27:28 GMT+05:30,Ankit Singh Bhakuni,5 June 2020 10:52:36 GMT+05:30,Resolved,2-Unacceptable Defect,760,Wk 2022,Wk 2023,Wk 2023,Exam Card Manager,,,,01-Jul-20,Wk 2027.3,,,MR00229552,Exam Card Manager
+,MR00231167,Diffusion Registration with Maximum 3 slices Job completed but still the inline step indicate In Progress,,Closed,Sathishkumar Mani,SW-UW-ReviewApps,28 May 2020 14:19:10 GMT+05:30,Deepak Viswanathan,19 June 2020 15:58:28 GMT+05:30,Deepak Viswanathan,29 May 2020 17:32:00 GMT+05:30,Resolved,3-Undesirable Defect,760,Wk 2022,Wk 2025,Wk 2022,Diffusion Registration,,,,02-Jul-20,Wk 2027.4,,,MR00229545,Exam Card Manager
+,MR00231164,Qflow- Application is Crashing while launching in Qflow Package,,Closed,Sathishkumar Mani,SW-UW-ReviewApps,28 May 2020 13:54:49 GMT+05:30,Sathish G,9 June 2020 08:23:16 GMT+05:30,Sathish G,5 June 2020 10:35:14 GMT+05:30,Resolved,2-Unacceptable Defect,760,Wk 2022,Wk 2024,Wk 2023,Qflow,,,,03-Jul-20,Wk 2027.5,,,MR00229530,Exam Card Manager
+,MR00231156,Orientation indicator are missing in the MRE Image View ports.,,Closed,Sathishkumar Mani,SW-UW-AcquisitionApps,28 May 2020 12:36:04 GMT+05:30,Thomasukutty Joseph,5 June 2020 09:32:42 GMT+05:30,Thomasukutty Joseph,2 June 2020 17:14:37 GMT+05:30,Resolved,3-Undesirable Defect,760,Wk 2022,Wk 2023,Wk 2023,MRE,,,,04-Jul-20,Wk 2027.6,,,MR00229523,Exam Card Manager
+,MR00231107,"Status of Inline created from DiffusionRegistration , launched from a mobiview Inline stays in submitted state always",,Closed,Snehal Suvarna,SW-UW-AcquisitionApps,27 May 2020 16:05:28 GMT+05:30,Deepak Viswanathan,3 June 2020 11:44:13 GMT+05:30,Deepak Viswanathan,28 May 2020 21:02:15 GMT+05:30,Resolved,3-Undesirable Defect,761,Wk 2022,Wk 2023,Wk 2022,Diffusion Registration,,,,05-Jul-20,Wk 2027.7,,,MR00229521,Exam Card Manager
+,MR00231085,Component Automation_Cannot open Examcards manager,,Closed,Pragna Mallikarjunappa,SW-UW-AcquisitionApps,27 May 2020 00:22:05 GMT+05:30,,,Ajai David,27 May 2020 18:29:55 GMT+05:30,Duplicated,3-Undesirable Defect,761,Wk 2022,,Wk 2022,Exam Card Manager,,,,06-Jul-20,Wk 2028.1,,,MR00229512,Scan Modification
+,MR00231058,MRE- UI issue Toolbar Map type selection drop-down list while selecting the Image type the selected image is highlighted,,Closed,Sathishkumar Mani,SW-UW-AcquisitionApps,26 May 2020 17:46:02 GMT+05:30,Thomasukutty Joseph,1 June 2020 14:32:21 GMT+05:30,Thomasukutty Joseph,28 May 2020 14:44:26 GMT+05:30,Resolved,4-Minor Defect,762,Wk 2022,Wk 2023,Wk 2022,MRE,,,,07-Jul-20,Wk 2028.2,,,MR00229486,Exam Card Manager
+,MR00231024,Exam Card Manager - Not working as expected,,Closed,Sathishkumar Mani,SW-UW-PreparePatient,26 May 2020 09:35:19 GMT+05:30,Ajai David,29 May 2020 23:13:15 GMT+05:30,Ajai David,27 May 2020 17:29:39 GMT+05:30,Resolved,3-Undesirable Defect,762,Wk 2022,Wk 2022,Wk 2022,Exam Card Manager,,,,08-Jul-20,Wk 2028.3,,,MR00229484,Exam Card Manager
+,MR00231015,Advance parameter conflict coming incorrectly for diffusion direction,,Closed,Sweta Singh,SW-UW-AcquisitionApps,25 May 2020 19:36:14 GMT+05:30,Duraichi Veerakumar,27 May 2020 17:10:15 GMT+05:30,Duraichi Veerakumar,27 May 2020 09:19:33 GMT+05:30,Resolved,3-Undesirable Defect,763,Wk 2022,Wk 2022,Wk 2022,Scan Modification,,,,09-Jul-20,Wk 2028.4,,,MR00229481,Exam Card Manager
+,MR00230960,original values in the tooltip of TE is mentioned wrong and showing the new value,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,22 May 2020 20:18:43 GMT+05:30,Anu Jothis,28 May 2020 14:25:32 GMT+05:30,Anu Jothis,26 May 2020 12:44:19 GMT+05:30,Resolved,3-Undesirable Defect,766,Wk 2021,Wk 2022,Wk 2022,Scan Modification,,,,10-Jul-20,Wk 2028.5,,,MR00229477,Exam Card Manager
+,MR00230958,tooltip shown wrong values for resolution tab,,Closed,Veerendra Shiva Devareddy,SW-UW-AcquisitionApps,22 May 2020 20:11:03 GMT+05:30,Anu Jothis,31 May 2020 11:18:32 GMT+05:30,Anu Jothis,26 May 2020 15:34:22 GMT+05:30,Resolved,3-Undesirable Defect,766,Wk 2021,Wk 2022,Wk 2022,Scan Modification,,,,11-Jul-20,Wk 2028.6,,,MR00229476,Exam Card Manager
+,MR00230900,QFlow- Active Contour Not Working for Ellipse ROI,,Closed,Saril Soman,SW-UW-ReviewApps,21 May 2020 11:47:03 GMT+05:30,Thomasukutty Joseph,4 June 2020 21:17:50 GMT+05:30,Thomasukutty Joseph,2 June 2020 12:55:49 GMT+05:30,Resolved,3-Undesirable Defect,767,Wk 2021,Wk 2023,Wk 2023,Qflow,,,,12-Jul-20,Wk 2028.7,,,MR00229475,Exam Card Manager
+,MR00230882,Advanced parameter is not accessible after patient engine crash recovery,,Closed,Pooja Srinivas,SW-UW-AcquisitionApps,20 May 2020 18:37:19 GMT+05:30,Anu Jothis,5 June 2020 13:22:49 GMT+05:30,Duraichi Veerakumar,4 June 2020 11:21:34 GMT+05:30,Resolved,3-Undesirable Defect,768,Wk 2021,Wk 2023,Wk 2023,Scan Modification,,,,13-Jul-20,Wk 2029.1,,,MR00229472,Exam Card Manager
+,MR00230847,"On RIS popularity reset/change,Examcard in Examcard managaer cannot be saved due to unavaiblity of scan protocals",Hans van Roosmalen,Verified,Vikyath VLN,SW-UW-AcquisitionApps,20 May 2020 12:39:41 GMT+05:30,Akhil P,21 May 2020 19:26:29 GMT+05:30,Akhil P,21 May 2020 15:17:09 GMT+05:30,Resolved,3-Undesirable Defect,768,Wk 2021,Wk 2021,Wk 2021,Exam Card Manager,,,,14-Jul-20,Wk 2029.2,,,MR00229469,Exam Card Manager
+,MR00230782,Exam setup window not closed and still empty window shown on repeated closing also,,Closed,Veerendra Shiva Devareddy,SW-UW-PreparePatient,19 May 2020 12:05:57 GMT+05:30,Duraichi Veerakumar,29 May 2020 02:54:09 GMT+05:30,Duraichi Veerakumar,23 May 2020 12:43:24 GMT+05:30,Resolved,3-Undesirable Defect,769,Wk 2021,Wk 2022,Wk 2021,Scan Modification,,,,15-Jul-20,Wk 2029.3,,,MR00229467,Exam Card Manager
+,MR00230779,empty adapt EC window is still there after closing the same,,Closed,Veerendra Shiva Devareddy,SW-UW-PreparePatient,19 May 2020 11:13:40 GMT+05:30,Duraichi Veerakumar,29 May 2020 02:56:02 GMT+05:30,Duraichi Veerakumar,23 May 2020 12:43:26 GMT+05:30,Resolved,3-Undesirable Defect,769,Wk 2021,Wk 2022,Wk 2021,Scan Modification,,,,16-Jul-20,Wk 2029.4,,,MR00229466,Exam Card Manager
+,MR00230749,Registered series is getting generated when image registration series is present for a protocol,,Closed,Sweta Singh,SW-UW-ReviewApps,18 May 2020 14:15:59 GMT+05:30,Deepak Viswanathan,25 June 2020 20:44:57 GMT+05:30,Deepak Viswanathan,25 May 2020 20:17:06 GMT+05:30,Resolved,3-Undesirable Defect,770,Wk 2021,Wk 2026,Wk 2022,Image Registration,,,,17-Jul-20,Wk 2029.5,,,MR00229461,Exam Card Manager
+,MR00230724,Weight unit is not changed for the Imported R5 examcard with the weight unit as 'LBS' in the ExamcardManager.,,Closed,Sumithra Kariappa,SW-UW-AcquisitionApps,16 May 2020 21:49:16 GMT+05:30,,,Ajai David,18 May 2020 12:59:50 GMT+05:30,Duplicated,3-Undesirable Defect,772,Wk 2020,,Wk 2021,Exam Card Manager,,,,18-Jul-20,Wk 2029.6,,,MR00229457,Exam Card Manager
+,MR00230691,Crash and Plugin initialization is failed for exam overview component pop up is displayed,,Closed,Bindu R,SW-UW-AcquisitionApps,15 May 2020 16:10:12 GMT+05:30,Syam SA,29 June 2020 12:45:43 GMT+05:30,Sathish G,28 May 2020 14:39:35 GMT+05:30,Resolved,3-Undesirable Defect,773,Wk 2020,Wk 2027,Wk 2022,Exam Card Manager,,,,19-Jul-20,Wk 2029.7,,,MR00229456,Exam Card Manager
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,MR00235520,Exam Card Manager
+,,,,,,,,,,,,,,,,,,,,,,,,,,MR00235519,Exam Card Manager
+,,,,,,,,,,,,,,,,,,,,,,,,,,MR00235448,Scan Modification
