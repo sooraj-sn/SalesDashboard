@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soora\\source\\repos\\CQDashboard\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj": {}
+    "C:\\Users\\soora\\source\\repos\\CQDashboard\\SalesDashboard\\API\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soora\\source\\repos\\CQDashboard\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj": {
+    "C:\\Users\\soora\\source\\repos\\CQDashboard\\SalesDashboard\\API\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soora\\source\\repos\\CQDashboard\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\soora\\source\\repos\\CQDashboard\\SalesDashboard\\API\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj",
         "projectName": "SampleWebAPI",
-        "projectPath": "C:\\Users\\soora\\source\\repos\\CQDashboard\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj",
+        "projectPath": "C:\\Users\\soora\\source\\repos\\CQDashboard\\SalesDashboard\\API\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj",
         "packagesPath": "C:\\Users\\soora\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soora\\source\\repos\\CQDashboard\\SampleWebAPI\\SampleWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\soora\\source\\repos\\CQDashboard\\SalesDashboard\\API\\SampleWebAPI\\SampleWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

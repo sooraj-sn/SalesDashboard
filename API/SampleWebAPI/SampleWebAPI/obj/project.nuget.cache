@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r18BvzOQmw1N7CdZ1ke+VHJoeBxixzWK1SvlPMOd1MhsyrMBg9jF7ZLGHL0Sqdnt35ALXq77tKfF0CafsXRR4A==",
+  "dgSpecHash": "QdAH5RfyAV/uklGBSEoVrSu/4rGAR7tkb21T6suZ6yw8sGUKz1vNsfMX5dlynHL4oEqd8FQCrA4K41/lmkUdTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\soora\\source\\repos\\CQDashboard\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\soora\\source\\repos\\CQDashboard\\SalesDashboard\\API\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\soora\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
     "C:\\Users\\soora\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
