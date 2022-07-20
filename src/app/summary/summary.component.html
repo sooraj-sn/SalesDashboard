@@ -1,0 +1,119 @@
+<div class="section-container">
+  <h2>Bug Count</h2>
+  <table class="col-sm-3 table table-inverse table-hover">
+    <thead class="thead-dark"></thead>
+    <tbody *ngIf="apiBugCount">
+      <tr>
+        <td>Total Bugs</td>
+        <td>{{ apiBugCount.TotalBugs }}</td>
+      </tr>
+      <tr>
+        <td>Total Open Bugs</td>
+        <td>{{ apiBugCount.TotalOpenBugs }}</td>
+      </tr>
+      <tr>
+        <td>Submitted</td>
+        <td>{{ apiBugCount.Submitted }}</td>
+      </tr>
+      <tr>
+        <td>Accepted</td>
+        <td>{{ apiBugCount.Accepted }}</td>
+      </tr>
+      <tr>
+        <td>Investigated</td>
+        <td>{{ apiBugCount.Investigated }}</td>
+      </tr>
+      <tr>
+        <td>Scored</td>
+        <td>{{ apiBugCount.Scored }}</td>
+      </tr>
+      <tr>
+        <td>Assigned</td>
+        <td>{{ apiBugCount.Assigned }}</td>
+      </tr>
+      <tr>
+        <td>Resolved</td>
+        <td>{{ apiBugCount.Resolved }}</td>
+      </tr>
+      <tr>
+        <td>Duplicated</td>
+        <td>{{ apiBugCount.Duplicated }}</td>
+      </tr>
+      <tr>
+        <td>Rejected</td>
+        <td>{{ apiBugCount.Rejected }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br />
+
+<div class="section-container">
+  <h2>Score</h2>
+  <table class="col-sm-3 table table-inverse table-hover">
+    <thead class="thead-dark"></thead>
+    <tbody *ngIf="apiScoreTable">
+      <tr>
+        <td>Unacceptable Safety Defect</td>
+        <td>{{ apiScoreTable.UnacceptableSafetyDefect }}</td>
+      </tr>
+      <tr>
+        <td>Unacceptable Defect</td>
+        <td>{{ apiScoreTable.UnacceptableDefect }}</td>
+      </tr>
+      <tr>
+        <td>Undesirable Defect</td>
+        <td>{{ apiScoreTable.UndesirableDefect }}</td>
+      </tr>
+      <tr>
+        <td>Minor Defect</td>
+        <td>{{ apiScoreTable.MinorDefect }}</td>
+      </tr>
+      <tr>
+        <td>Total</td>
+        <td>{{ apiScoreTable.Total }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br />
+
+<div class="section-container">
+  <h2>Feature Wise - Total Bugs</h2>
+  <table class="col-sm-3 table table-inverse table-hover">
+    <thead class="thead-dark">
+      <tr>
+        <th>Feature Name</th>
+        <th>Total Bugs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let arr of arrayFeatureTotalBugs">
+        <td>{{ arr.key }}</td>
+        <td>{{ arr.value }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br />
+
+<div class="section-container">
+  <h2>Feature Wise - Open Bugs</h2>
+  <table class="col-sm-3 table table-inverse table-hover">
+    <thead class="thead-dark">
+      <tr>
+        <th>Feature Name</th>
+        <th>Total Bugs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let arr of arrayFeatureOpenBugs">
+        <td>{{ arr.key }}</td>
+        <td>{{ arr.value }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
