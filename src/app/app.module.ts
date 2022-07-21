@@ -12,6 +12,7 @@ import { ImportcqdataComponent } from './importcqdata/importcqdata.component';
 import { appRoutes } from 'src/routes';
 import { HttpClientModule } from '@angular/common/http';
 import { NgChartsModule } from 'ng2-charts';
+import Chart from 'chart.js/auto';
 
 @NgModule({
   declarations: [

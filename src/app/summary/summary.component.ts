@@ -1,10 +1,12 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { ChartDataset } from 'chart.js';
 import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { BugCount } from '../models/BugCount';
 import { Score } from '../models/Score';
 import { SummaryService } from '../services/summary.service';
-import { NgChartsModule } from 'ng2-charts';
+import Chart from 'chart.js/auto';
+//import { NgChartsModule } from 'ng2-charts';
 
 const SAMPLE_BARCHART_DATA: any[] = [
   { data: [65, 59, 80, 81, 56, 54, 30], label: 'Q3 Sales' },
