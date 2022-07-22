@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using CsvHelper;
 using System.IO;
@@ -252,7 +252,28 @@ namespace SampleWebAPI.Data
             return openBugsList;
         }
 
-        private string GetTotalScoreCount(Score score)
+        //public RecentBugs GetRecentBugs()
+        //{
+
+        //  RecentBugs recentbugs = new RecentBugs();
+        //  List<string> newlyAssignedBugs = new List<string>();
+        //  List<string> recentlyResolvedBugs = new List<string>();
+        //  List<string> recentlyRejectedBugs = new List<string>();
+        //  List<string> recentlyReassignedBugs = new List<string>();
+        //  if (AllCQData == null || AllCQData.Count == 0)
+        //  {
+        //    GetAllCQDataFromCSVFile();
+        //  }
+        //  //FormatDateForCQData(List);
+
+        //}
+
+    //private DateTime FormatDateForCQData(string datetime)
+    //{
+      
+    //}
+
+    private string GetTotalScoreCount(Score score)
         {
             var total = Int32.Parse(score.UnacceptableSafetyDefect) + Int32.Parse(score.UndesirableDefect) + Int32.Parse(score.UnacceptableDefect)
                                 + Int32.Parse(score.MinorDefect);
